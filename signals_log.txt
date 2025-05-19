@@ -1,0 +1,4257 @@
+[2025-05-16 15:50:03] ⚡ ETH/USDT [15m] ALERT
+Current Price: 2534.0000
+ATR: 13.8313
+✅ Buy Price: 2527.0843
+🎯 Take Profit: 2547.8313
+🛑 Stop Loss: 2520.1687
+---
+[2025-05-16 15:50:07] ⚡ NEO/USDT [15m] ALERT
+Current Price: 6.5800
+ATR: 0.0440
+✅ Buy Price: 6.5580
+🎯 Take Profit: 6.6240
+🛑 Stop Loss: 6.5360
+---
+[2025-05-16 15:50:08] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5800
+ATR: 0.0993
+✅ Buy Price: 6.5303
+🎯 Take Profit: 6.6793
+🛑 Stop Loss: 6.4807
+---
+[2025-05-16 15:50:14] ⚡ ADA/USDT [15m] ALERT
+Current Price: 0.7509
+ATR: 0.0050
+✅ Buy Price: 0.7484
+🎯 Take Profit: 0.7559
+🛑 Stop Loss: 0.7459
+---
+[2025-05-16 15:50:16] ⚡ XRP/USDT [15m] ALERT
+Current Price: 2.3646
+ATR: 0.0133
+✅ Buy Price: 2.3580
+🎯 Take Profit: 2.3779
+🛑 Stop Loss: 2.3513
+---
+[2025-05-16 15:50:29] ⚡ TRX/USDT [15m] ALERT
+Current Price: 0.2717
+ATR: 0.0006
+✅ Buy Price: 0.2714
+🎯 Take Profit: 0.2723
+🛑 Stop Loss: 0.2711
+---
+[2025-05-16 15:50:33] ⚡ ICX/USDT [15m] ALERT
+Current Price: 0.1076
+ATR: 0.0006
+✅ Buy Price: 0.1073
+🎯 Take Profit: 0.1082
+🛑 Stop Loss: 0.1070
+---
+[2025-05-16 15:50:34] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1076
+ATR: 0.0016
+✅ Buy Price: 0.1068
+🎯 Take Profit: 0.1092
+🛑 Stop Loss: 0.1060
+---
+[2025-05-16 15:50:35] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0283
+ATR: 0.0002
+✅ Buy Price: 0.0282
+🎯 Take Profit: 0.0285
+🛑 Stop Loss: 0.0281
+---
+[2025-05-16 15:50:44] ⚡ HOT/USDT [15m] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0011
+🛑 Stop Loss: 0.0011
+---
+[2025-05-16 15:50:45] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+---
+[2025-05-16 15:50:46] ⚡ ZIL/USDT [15m] ALERT
+Current Price: 0.0131
+ATR: 0.0001
+✅ Buy Price: 0.0130
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0130
+---
+[2025-05-16 15:50:48] ⚡ ZRX/USDT [15m] ALERT
+Current Price: 0.2724
+ATR: 0.0018
+✅ Buy Price: 0.2715
+🎯 Take Profit: 0.2742
+🛑 Stop Loss: 0.2706
+---
+[2025-05-16 15:50:51] ⚡ FET/USDT [15m] ALERT
+Current Price: 0.7570
+ATR: 0.0066
+✅ Buy Price: 0.7537
+🎯 Take Profit: 0.7636
+🛑 Stop Loss: 0.7504
+---
+[2025-05-16 15:50:57] ⚡ IOST/USDT [15m] ALERT
+Current Price: 0.0039
+ATR: 0.0000
+✅ Buy Price: 0.0039
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+---
+[2025-05-16 15:50:58] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+---
+[2025-05-16 15:50:59] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0103
+ATR: 0.0001
+✅ Buy Price: 0.0103
+🎯 Take Profit: 0.0104
+🛑 Stop Loss: 0.0102
+---
+[2025-05-16 15:51:00] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0103
+ATR: 0.0002
+✅ Buy Price: 0.0102
+🎯 Take Profit: 0.0105
+🛑 Stop Loss: 0.0101
+---
+[2025-05-16 16:02:37] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8140
+ATR: 0.1308
+✅ Buy Price: 4.7486
+🎯 Take Profit: 4.9448
+🛑 Stop Loss: 4.6832
+---
+[2025-05-16 16:05:26] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8180
+ATR: 0.1308
+✅ Buy Price: 4.7526
+🎯 Take Profit: 4.9488
+🛑 Stop Loss: 4.6872
+---
+[2025-05-16 16:07:28] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2239
+ATR: 0.0018
+✅ Buy Price: 0.2230
+🎯 Take Profit: 0.2257
+🛑 Stop Loss: 0.2221
+---
+[2025-05-16 16:08:15] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8200
+ATR: 0.1308
+✅ Buy Price: 4.7546
+🎯 Take Profit: 4.9508
+🛑 Stop Loss: 4.6892
+---
+[2025-05-16 16:08:37] ⚡ WAN/USDT [15m] ALERT
+Current Price: 0.1251
+ATR: 0.0008
+✅ Buy Price: 0.1247
+🎯 Take Profit: 0.1259
+🛑 Stop Loss: 0.1243
+---
+[2025-05-16 16:10:16] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2239
+ATR: 0.0018
+✅ Buy Price: 0.2230
+🎯 Take Profit: 0.2257
+🛑 Stop Loss: 0.2221
+---
+[2025-05-16 16:10:23] ⚡ TRX/USDT [15m] ALERT
+Current Price: 0.2720
+ATR: 0.0006
+✅ Buy Price: 0.2717
+🎯 Take Profit: 0.2726
+🛑 Stop Loss: 0.2714
+---
+[2025-05-16 16:11:03] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8220
+ATR: 0.1308
+✅ Buy Price: 4.7566
+🎯 Take Profit: 4.9528
+🛑 Stop Loss: 4.6912
+---
+[2025-05-16 16:11:04] ⚡ TFUEL/USDT [15m] ALERT
+Current Price: 0.0384
+ATR: 0.0002
+✅ Buy Price: 0.0383
+🎯 Take Profit: 0.0386
+🛑 Stop Loss: 0.0382
+---
+[2025-05-16 16:11:12] ⚡ DUSK/USDT [15m] ALERT
+Current Price: 0.0876
+ATR: 0.0007
+✅ Buy Price: 0.0872
+🎯 Take Profit: 0.0883
+🛑 Stop Loss: 0.0869
+---
+[2025-05-16 16:11:25] ⚡ WAN/USDT [15m] ALERT
+Current Price: 0.1251
+ATR: 0.0008
+✅ Buy Price: 0.1247
+🎯 Take Profit: 0.1259
+🛑 Stop Loss: 0.1243
+---
+[2025-05-16 16:11:41] ⚡ HBAR/USDT [15m] ALERT
+Current Price: 0.1957
+ATR: 0.0013
+✅ Buy Price: 0.1951
+🎯 Take Profit: 0.1970
+🛑 Stop Loss: 0.1945
+---
+[2025-05-16 16:12:54] ⚡ QTUM/USDT [15m] ALERT
+Current Price: 2.3700
+ATR: 0.0132
+✅ Buy Price: 2.3634
+🎯 Take Profit: 2.3832
+🛑 Stop Loss: 2.3568
+---
+[2025-05-16 16:13:04] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2238
+ATR: 0.0018
+✅ Buy Price: 0.2229
+🎯 Take Profit: 0.2256
+🛑 Stop Loss: 0.2220
+---
+[2025-05-16 16:13:11] ⚡ TRX/USDT [15m] ALERT
+Current Price: 0.2722
+ATR: 0.0006
+✅ Buy Price: 0.2719
+🎯 Take Profit: 0.2728
+🛑 Stop Loss: 0.2716
+---
+[2025-05-16 16:13:30] ⚡ ZRX/USDT [15m] ALERT
+Current Price: 0.2755
+ATR: 0.0018
+✅ Buy Price: 0.2746
+🎯 Take Profit: 0.2773
+🛑 Stop Loss: 0.2737
+---
+[2025-05-16 16:13:46] ⚡ THETA/USDT [15m] ALERT
+Current Price: 0.8850
+ATR: 0.0071
+✅ Buy Price: 0.8814
+🎯 Take Profit: 0.8921
+🛑 Stop Loss: 0.8779
+---
+[2025-05-16 16:13:51] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8220
+ATR: 0.1308
+✅ Buy Price: 4.7566
+🎯 Take Profit: 4.9528
+🛑 Stop Loss: 4.6912
+---
+[2025-05-16 16:13:52] ⚡ TFUEL/USDT [15m] ALERT
+Current Price: 0.0383
+ATR: 0.0002
+✅ Buy Price: 0.0382
+🎯 Take Profit: 0.0385
+🛑 Stop Loss: 0.0381
+---
+[2025-05-16 16:14:01] ⚡ DUSK/USDT [15m] ALERT
+Current Price: 0.0879
+ATR: 0.0007
+✅ Buy Price: 0.0875
+🎯 Take Profit: 0.0886
+🛑 Stop Loss: 0.0872
+---
+[2025-05-16 16:14:14] ⚡ WAN/USDT [15m] ALERT
+Current Price: 0.1250
+ATR: 0.0008
+✅ Buy Price: 0.1246
+🎯 Take Profit: 0.1258
+🛑 Stop Loss: 0.1242
+---
+[2025-05-16 16:16:06] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0286
+ATR: 0.0002
+✅ Buy Price: 0.0285
+🎯 Take Profit: 0.0289
+🛑 Stop Loss: 0.0284
+---
+[2025-05-16 16:16:40] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8200
+ATR: 0.1308
+✅ Buy Price: 4.7546
+🎯 Take Profit: 4.9508
+🛑 Stop Loss: 4.6892
+---
+[2025-05-16 16:18:54] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0286
+ATR: 0.0002
+✅ Buy Price: 0.0285
+🎯 Take Profit: 0.0288
+🛑 Stop Loss: 0.0284
+---
+[2025-05-16 16:19:28] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8140
+ATR: 0.1308
+✅ Buy Price: 4.7486
+🎯 Take Profit: 4.9448
+🛑 Stop Loss: 4.6832
+---
+[2025-05-16 16:21:42] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0286
+ATR: 0.0002
+✅ Buy Price: 0.0285
+🎯 Take Profit: 0.0288
+🛑 Stop Loss: 0.0284
+---
+[2025-05-16 16:22:16] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8170
+ATR: 0.1308
+✅ Buy Price: 4.7516
+🎯 Take Profit: 4.9478
+🛑 Stop Loss: 4.6862
+---
+[2025-05-16 16:24:31] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0286
+ATR: 0.0002
+✅ Buy Price: 0.0285
+🎯 Take Profit: 0.0288
+🛑 Stop Loss: 0.0284
+---
+[2025-05-16 16:25:05] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8230
+ATR: 0.1308
+✅ Buy Price: 4.7576
+🎯 Take Profit: 4.9538
+🛑 Stop Loss: 4.6922
+---
+[2025-05-16 16:27:19] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0287
+ATR: 0.0002
+✅ Buy Price: 0.0286
+🎯 Take Profit: 0.0289
+🛑 Stop Loss: 0.0285
+---
+[2025-05-16 16:27:53] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8330
+ATR: 0.1308
+✅ Buy Price: 4.7676
+🎯 Take Profit: 4.9638
+🛑 Stop Loss: 4.7022
+---
+[2025-05-16 16:30:42] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8340
+ATR: 0.1308
+✅ Buy Price: 4.7686
+🎯 Take Profit: 4.9648
+🛑 Stop Loss: 4.7032
+---
+[2025-05-16 16:33:30] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8270
+ATR: 0.1308
+✅ Buy Price: 4.7616
+🎯 Take Profit: 4.9578
+🛑 Stop Loss: 4.6962
+---
+[2025-05-16 16:36:19] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8300
+ATR: 0.1308
+✅ Buy Price: 4.7646
+🎯 Take Profit: 4.9608
+🛑 Stop Loss: 4.6992
+---
+[2025-05-16 16:36:47] ⚡ CHZ/USDT [15m] ALERT
+Current Price: 0.0444
+ATR: 0.0003
+✅ Buy Price: 0.0443
+🎯 Take Profit: 0.0447
+🛑 Stop Loss: 0.0442
+---
+[2025-05-16 16:39:06] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8340
+ATR: 0.1308
+✅ Buy Price: 4.7686
+🎯 Take Profit: 4.9648
+🛑 Stop Loss: 4.7032
+---
+[2025-05-16 16:39:36] ⚡ CHZ/USDT [15m] ALERT
+Current Price: 0.0445
+ATR: 0.0003
+✅ Buy Price: 0.0443
+🎯 Take Profit: 0.0447
+🛑 Stop Loss: 0.0442
+---
+[2025-05-16 16:41:55] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8290
+ATR: 0.1308
+✅ Buy Price: 4.7636
+🎯 Take Profit: 4.9598
+🛑 Stop Loss: 4.6982
+---
+[2025-05-16 16:42:24] ⚡ CHZ/USDT [15m] ALERT
+Current Price: 0.0444
+ATR: 0.0003
+✅ Buy Price: 0.0443
+🎯 Take Profit: 0.0446
+🛑 Stop Loss: 0.0441
+---
+[2025-05-16 16:44:43] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8240
+ATR: 0.1308
+✅ Buy Price: 4.7586
+🎯 Take Profit: 4.9548
+🛑 Stop Loss: 4.6932
+---
+[2025-05-16 16:47:32] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8190
+ATR: 0.1308
+✅ Buy Price: 4.7536
+🎯 Take Profit: 4.9498
+🛑 Stop Loss: 4.6882
+---
+[2025-05-16 16:49:00] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8110
+ATR: 0.1308
+✅ Buy Price: 4.7456
+🎯 Take Profit: 4.9418
+🛑 Stop Loss: 4.6802
+---
+[2025-05-16 16:51:49] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8060
+ATR: 0.1308
+✅ Buy Price: 4.7406
+🎯 Take Profit: 4.9368
+🛑 Stop Loss: 4.6752
+---
+[2025-05-16 16:53:31] ⚡ ETH/USDT [15m] ALERT
+Current Price: 2537.0200
+ATR: 13.3086
+✅ Buy Price: 2530.3657
+🎯 Take Profit: 2550.3286
+🛑 Stop Loss: 2523.7114
+---
+[2025-05-16 16:54:37] ⚡ ATOM/USDT [4h] ALERT
+Current Price: 4.8130
+ATR: 0.1308
+✅ Buy Price: 4.7476
+🎯 Take Profit: 4.9438
+🛑 Stop Loss: 4.6822
+---
+[2025-05-16 17:11:56] ⚡ ETH/USDT [15m] ALERT
+Current Price: 2523.7900
+ATR: 14.1102
+✅ Buy Price: 2516.7349
+🎯 Take Profit: 2537.9002
+🛑 Stop Loss: 2509.6798
+Expected Profit: 0.84%
+---
+[2025-05-16 17:12:03] ⚡ LTC/USDT [15m] ALERT
+Current Price: 99.8500
+ATR: 0.5629
+✅ Buy Price: 99.5686
+🎯 Take Profit: 100.4129
+🛑 Stop Loss: 99.2871
+Expected Profit: 0.85%
+---
+[2025-05-16 17:12:05] ⚡ QTUM/USDT [15m] ALERT
+Current Price: 2.3610
+ATR: 0.0125
+✅ Buy Price: 2.3548
+🎯 Take Profit: 2.3735
+🛑 Stop Loss: 2.3485
+Expected Profit: 0.80%
+---
+[2025-05-16 17:12:07] ⚡ ADA/USDT [15m] ALERT
+Current Price: 0.7585
+ATR: 0.0048
+✅ Buy Price: 0.7561
+🎯 Take Profit: 0.7633
+🛑 Stop Loss: 0.7537
+Expected Profit: 0.95%
+---
+[2025-05-16 17:12:09] ⚡ XRP/USDT [15m] ALERT
+Current Price: 2.3755
+ATR: 0.0132
+✅ Buy Price: 2.3689
+🎯 Take Profit: 2.3887
+🛑 Stop Loss: 2.3623
+Expected Profit: 0.83%
+---
+[2025-05-16 17:12:11] ⚡ EOS/USDT [15m] ALERT
+Current Price: 0.8365
+ATR: 0.0070
+✅ Buy Price: 0.8330
+🎯 Take Profit: 0.8435
+🛑 Stop Loss: 0.8295
+Expected Profit: 1.26%
+---
+[2025-05-16 17:12:20] ⚡ ONT/USDT [15m] ALERT
+Current Price: 0.1540
+ATR: 0.0008
+✅ Buy Price: 0.1536
+🎯 Take Profit: 0.1548
+🛑 Stop Loss: 0.1532
+Expected Profit: 0.82%
+---
+[2025-05-16 17:12:24] ⚡ ETC/USDT [15m] ALERT
+Current Price: 18.7100
+ATR: 0.1003
+✅ Buy Price: 18.6599
+🎯 Take Profit: 18.8103
+🛑 Stop Loss: 18.6097
+Expected Profit: 0.81%
+---
+[2025-05-16 17:12:27] ⚡ ICX/USDT [15m] ALERT
+Current Price: 0.1083
+ATR: 0.0006
+✅ Buy Price: 0.1080
+🎯 Take Profit: 0.1089
+🛑 Stop Loss: 0.1077
+Expected Profit: 0.80%
+---
+[2025-05-16 17:12:29] ⚡ VET/USDT [15m] ALERT
+Current Price: 0.0286
+ATR: 0.0002
+✅ Buy Price: 0.0285
+🎯 Take Profit: 0.0288
+🛑 Stop Loss: 0.0284
+Expected Profit: 1.09%
+---
+[2025-05-16 17:12:33] ⚡ LINK/USDT [15m] ALERT
+Current Price: 15.7300
+ATR: 0.0985
+✅ Buy Price: 15.6808
+🎯 Take Profit: 15.8285
+🛑 Stop Loss: 15.6315
+Expected Profit: 0.94%
+---
+[2025-05-16 17:12:35] ⚡ ONG/USDT [15m] ALERT
+Current Price: 0.2143
+ATR: 0.0011
+✅ Buy Price: 0.2137
+🎯 Take Profit: 0.2154
+🛑 Stop Loss: 0.2132
+Expected Profit: 0.78%
+---
+[2025-05-16 17:12:38] ⚡ HOT/USDT [15m] ALERT
+Current Price: 0.0012
+ATR: 0.0000
+✅ Buy Price: 0.0012
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0012
+Expected Profit: 1.11%
+---
+[2025-05-16 17:12:40] ⚡ ZIL/USDT [15m] ALERT
+Current Price: 0.0132
+ATR: 0.0001
+✅ Buy Price: 0.0131
+🎯 Take Profit: 0.0133
+🛑 Stop Loss: 0.0131
+Expected Profit: 0.99%
+---
+[2025-05-16 17:12:42] ⚡ ZRX/USDT [15m] ALERT
+Current Price: 0.2746
+ATR: 0.0016
+✅ Buy Price: 0.2738
+🎯 Take Profit: 0.2762
+🛑 Stop Loss: 0.2730
+Expected Profit: 0.90%
+---
+[2025-05-16 17:12:44] ⚡ FET/USDT [15m] ALERT
+Current Price: 0.7650
+ATR: 0.0063
+✅ Buy Price: 0.7619
+🎯 Take Profit: 0.7713
+🛑 Stop Loss: 0.7587
+Expected Profit: 1.24%
+---
+[2025-05-16 17:12:46] ⚡ BAT/USDT [15m] ALERT
+Current Price: 0.1508
+ATR: 0.0008
+✅ Buy Price: 0.1504
+🎯 Take Profit: 0.1516
+🛑 Stop Loss: 0.1500
+Expected Profit: 0.80%
+---
+[2025-05-16 17:12:51] ⚡ IOST/USDT [15m] ALERT
+Current Price: 0.0039
+ATR: 0.0000
+✅ Buy Price: 0.0039
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0039
+Expected Profit: 0.86%
+---
+[2025-05-16 17:12:55] ⚡ DASH/USDT [15m] ALERT
+Current Price: 23.4300
+ATR: 0.1171
+✅ Buy Price: 23.3714
+🎯 Take Profit: 23.5471
+🛑 Stop Loss: 23.3129
+Expected Profit: 0.75%
+---
+[2025-05-16 17:12:57] ⚡ THETA/USDT [15m] ALERT
+Current Price: 0.8830
+ATR: 0.0066
+✅ Buy Price: 0.8797
+🎯 Take Profit: 0.8896
+🛑 Stop Loss: 0.8764
+Expected Profit: 1.12%
+---
+[2025-05-16 17:13:06] ⚡ ONE/USDT [15m] ALERT
+Current Price: 0.0143
+ATR: 0.0001
+✅ Buy Price: 0.0142
+🎯 Take Profit: 0.0144
+🛑 Stop Loss: 0.0142
+Expected Profit: 1.20%
+---
+[2025-05-16 17:13:08] ⚡ ALGO/USDT [15m] ALERT
+Current Price: 0.2232
+ATR: 0.0016
+✅ Buy Price: 0.2224
+🎯 Take Profit: 0.2248
+🛑 Stop Loss: 0.2216
+Expected Profit: 1.05%
+---
+[2025-05-16 17:13:10] ⚡ DOGE/USDT [15m] ALERT
+Current Price: 0.2221
+ATR: 0.0017
+✅ Buy Price: 0.2212
+🎯 Take Profit: 0.2237
+🛑 Stop Loss: 0.2204
+Expected Profit: 1.13%
+---
+[2025-05-16 17:13:15] ⚡ ANKR/USDT [15m] ALERT
+Current Price: 0.0191
+ATR: 0.0001
+✅ Buy Price: 0.0191
+🎯 Take Profit: 0.0192
+🛑 Stop Loss: 0.0190
+Expected Profit: 0.83%
+---
+[2025-05-16 17:13:17] ⚡ WIN/USDT [15m] ALERT
+Current Price: 0.0001
+ATR: 0.0000
+✅ Buy Price: 0.0001
+🎯 Take Profit: 0.0001
+🛑 Stop Loss: 0.0001
+Expected Profit: 0.54%
+---
+[2025-05-16 17:13:17] ⚡ WIN/USDT [1h] ALERT
+Current Price: 0.0001
+ATR: 0.0000
+✅ Buy Price: 0.0001
+🎯 Take Profit: 0.0001
+🛑 Stop Loss: 0.0001
+Expected Profit: 1.23%
+---
+[2025-05-16 17:13:19] ⚡ COS/USDT [15m] ALERT
+Current Price: 0.0038
+ATR: 0.0000
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 0.86%
+---
+[2025-05-16 17:13:21] ⚡ MTL/USDT [15m] ALERT
+Current Price: 0.8370
+ATR: 0.0041
+✅ Buy Price: 0.8350
+🎯 Take Profit: 0.8411
+🛑 Stop Loss: 0.8329
+Expected Profit: 0.73%
+---
+[2025-05-16 17:13:23] ⚡ DENT/USDT [15m] ALERT
+Current Price: 0.0008
+ATR: 0.0000
+✅ Buy Price: 0.0008
+🎯 Take Profit: 0.0009
+🛑 Stop Loss: 0.0008
+Expected Profit: 1.12%
+---
+[2025-05-16 17:13:24] ⚡ DENT/USDT [1h] ALERT
+Current Price: 0.0008
+ATR: 0.0000
+✅ Buy Price: 0.0008
+🎯 Take Profit: 0.0009
+🛑 Stop Loss: 0.0008
+Expected Profit: 2.38%
+---
+[2025-05-16 17:13:25] ⚡ WAN/USDT [15m] ALERT
+Current Price: 0.1249
+ATR: 0.0007
+✅ Buy Price: 0.1245
+🎯 Take Profit: 0.1256
+🛑 Stop Loss: 0.1242
+Expected Profit: 0.90%
+---
+[2025-05-16 17:13:28] ⚡ FUN/USDT [15m] ALERT
+Current Price: 0.0056
+ATR: 0.0000
+✅ Buy Price: 0.0055
+🎯 Take Profit: 0.0056
+🛑 Stop Loss: 0.0055
+Expected Profit: 1.05%
+---
+[2025-05-16 17:13:30] ⚡ CVC/USDT [15m] ALERT
+Current Price: 0.1308
+ATR: 0.0014
+✅ Buy Price: 0.1301
+🎯 Take Profit: 0.1322
+🛑 Stop Loss: 0.1294
+Expected Profit: 1.63%
+---
+[2025-05-16 17:13:32] ⚡ CHZ/USDT [15m] ALERT
+Current Price: 0.0443
+ATR: 0.0003
+✅ Buy Price: 0.0442
+🎯 Take Profit: 0.0446
+🛑 Stop Loss: 0.0441
+Expected Profit: 0.87%
+---
+[2025-05-16 17:13:34] ⚡ BAND/USDT [15m] ALERT
+Current Price: 0.8040
+ATR: 0.0063
+✅ Buy Price: 0.8008
+🎯 Take Profit: 0.8103
+🛑 Stop Loss: 0.7977
+Expected Profit: 1.18%
+---
+[2025-05-16 17:13:36] ⚡ XTZ/USDT [15m] ALERT
+Current Price: 0.6365
+ATR: 0.0038
+✅ Buy Price: 0.6346
+🎯 Take Profit: 0.6403
+🛑 Stop Loss: 0.6327
+Expected Profit: 0.90%
+---
+[2025-05-16 17:13:38] ⚡ RVN/USDT [15m] ALERT
+Current Price: 0.0126
+ATR: 0.0001
+✅ Buy Price: 0.0126
+🎯 Take Profit: 0.0127
+🛑 Stop Loss: 0.0126
+Expected Profit: 0.92%
+---
+[2025-05-16 17:15:24] ⚡ ONG/USDT [1h] ALERT
+Current Price: 0.2136
+ATR: 0.0025
+✅ Buy Price: 0.2123
+🎯 Take Profit: 0.2161
+🛑 Stop Loss: 0.2111
+Expected Profit: 1.79%
+---
+[2025-05-16 17:19:16] ⚡ HBAR/USDT [15m] ALERT
+Current Price: 0.1945
+ATR: 0.0012
+✅ Buy Price: 0.1939
+🎯 Take Profit: 0.1957
+🛑 Stop Loss: 0.1934
+Expected Profit: 0.91%
+---
+[2025-05-16 17:25:14] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2501.9700
+ATR: 30.7944
+✅ Buy Price: 2486.5728
+🎯 Take Profit: 2532.7644
+🛑 Stop Loss: 2471.1756
+Expected Profit: 1.86%
+---
+[2025-05-16 17:25:37] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1529
+ATR: 0.0019
+✅ Buy Price: 0.1519
+🎯 Take Profit: 0.1548
+🛑 Stop Loss: 0.1510
+Expected Profit: 1.89%
+---
+[2025-05-16 17:26:01] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7550
+ATR: 0.0140
+✅ Buy Price: 0.7480
+🎯 Take Profit: 0.7690
+🛑 Stop Loss: 0.7410
+Expected Profit: 2.81%
+---
+[2025-05-16 17:26:08] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.08%
+---
+[2025-05-16 17:26:18] ⚡ ATOM/USDT [15m] ALERT
+Current Price: 4.7700
+ATR: 0.0308
+✅ Buy Price: 4.7546
+🎯 Take Profit: 4.8008
+🛑 Stop Loss: 4.7392
+Expected Profit: 0.97%
+---
+[2025-05-16 17:26:38] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8330
+ATR: 0.0099
+✅ Buy Price: 0.8280
+🎯 Take Profit: 0.8429
+🛑 Stop Loss: 0.8231
+Expected Profit: 1.80%
+---
+[2025-05-16 17:26:56] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0124
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0123
+Expected Profit: 2.25%
+---
+[2025-05-16 17:28:02] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2504.6900
+ATR: 30.9946
+✅ Buy Price: 2489.1927
+🎯 Take Profit: 2535.6846
+🛑 Stop Loss: 2473.6954
+Expected Profit: 1.87%
+---
+[2025-05-16 17:28:26] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1526
+ATR: 0.0019
+✅ Buy Price: 0.1516
+🎯 Take Profit: 0.1545
+🛑 Stop Loss: 0.1507
+Expected Profit: 1.90%
+---
+[2025-05-16 17:28:49] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7550
+ATR: 0.0141
+✅ Buy Price: 0.7480
+🎯 Take Profit: 0.7691
+🛑 Stop Loss: 0.7409
+Expected Profit: 2.83%
+---
+[2025-05-16 17:28:56] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.09%
+---
+[2025-05-16 17:29:01] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.3500
+ATR: 0.2693
+✅ Buy Price: 23.2154
+🎯 Take Profit: 23.6193
+🛑 Stop Loss: 23.0807
+Expected Profit: 1.74%
+---
+[2025-05-16 17:29:06] ⚡ ATOM/USDT [15m] ALERT
+Current Price: 4.7520
+ATR: 0.0313
+✅ Buy Price: 4.7364
+🎯 Take Profit: 4.7833
+🛑 Stop Loss: 4.7207
+Expected Profit: 0.99%
+---
+[2025-05-16 17:29:07] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7520
+ATR: 0.0622
+✅ Buy Price: 4.7209
+🎯 Take Profit: 4.8142
+🛑 Stop Loss: 4.6898
+Expected Profit: 1.98%
+---
+[2025-05-16 17:29:27] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8310
+ATR: 0.0099
+✅ Buy Price: 0.8260
+🎯 Take Profit: 0.8409
+🛑 Stop Loss: 0.8211
+Expected Profit: 1.80%
+---
+[2025-05-16 17:29:40] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7950
+ATR: 0.0132
+✅ Buy Price: 0.7884
+🎯 Take Profit: 0.8082
+🛑 Stop Loss: 0.7818
+Expected Profit: 2.50%
+---
+[2025-05-16 17:29:44] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0125
+ATR: 0.0002
+✅ Buy Price: 0.0124
+🎯 Take Profit: 0.0127
+🛑 Stop Loss: 0.0123
+Expected Profit: 2.24%
+---
+[2025-05-16 17:30:51] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2499.7900
+ATR: 31.2397
+✅ Buy Price: 2484.1701
+🎯 Take Profit: 2531.0297
+🛑 Stop Loss: 2468.5503
+Expected Profit: 1.89%
+---
+[2025-05-16 17:30:59] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3460
+ATR: 0.0304
+✅ Buy Price: 2.3308
+🎯 Take Profit: 2.3764
+🛑 Stop Loss: 2.3156
+Expected Profit: 1.96%
+---
+[2025-05-16 17:31:14] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1529
+ATR: 0.0019
+✅ Buy Price: 0.1519
+🎯 Take Profit: 0.1548
+🛑 Stop Loss: 0.1510
+Expected Profit: 1.91%
+---
+[2025-05-16 17:31:21] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1071
+ATR: 0.0015
+✅ Buy Price: 0.1063
+🎯 Take Profit: 0.1086
+🛑 Stop Loss: 0.1056
+Expected Profit: 2.18%
+---
+[2025-05-16 17:31:28] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.6500
+ATR: 0.2229
+✅ Buy Price: 15.5386
+🎯 Take Profit: 15.8729
+🛑 Stop Loss: 15.4271
+Expected Profit: 2.15%
+---
+[2025-05-16 17:31:36] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2701
+ATR: 0.0040
+✅ Buy Price: 0.2681
+🎯 Take Profit: 0.2741
+🛑 Stop Loss: 0.2661
+Expected Profit: 2.24%
+---
+[2025-05-16 17:31:39] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7560
+ATR: 0.0141
+✅ Buy Price: 0.7490
+🎯 Take Profit: 0.7701
+🛑 Stop Loss: 0.7419
+Expected Profit: 2.82%
+---
+[2025-05-16 17:31:46] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.11%
+---
+[2025-05-16 17:31:50] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.3700
+ATR: 0.2707
+✅ Buy Price: 23.2346
+🎯 Take Profit: 23.6407
+🛑 Stop Loss: 23.0993
+Expected Profit: 1.75%
+---
+[2025-05-16 17:31:56] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7450
+ATR: 0.0630
+✅ Buy Price: 4.7135
+🎯 Take Profit: 4.8080
+🛑 Stop Loss: 4.6820
+Expected Profit: 2.00%
+---
+[2025-05-16 17:32:16] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8300
+ATR: 0.0100
+✅ Buy Price: 0.8250
+🎯 Take Profit: 0.8400
+🛑 Stop Loss: 0.8200
+Expected Profit: 1.82%
+---
+[2025-05-16 17:32:29] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7960
+ATR: 0.0132
+✅ Buy Price: 0.7894
+🎯 Take Profit: 0.8092
+🛑 Stop Loss: 0.7828
+Expected Profit: 2.50%
+---
+[2025-05-16 17:32:33] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0123
+Expected Profit: 2.27%
+---
+[2025-05-16 17:33:39] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2500.4800
+ATR: 31.2397
+✅ Buy Price: 2484.8601
+🎯 Take Profit: 2531.7197
+🛑 Stop Loss: 2469.2403
+Expected Profit: 1.89%
+---
+[2025-05-16 17:33:42] ⚡ BNB/USDT [1h] ALERT
+Current Price: 643.0700
+ATR: 3.7879
+✅ Buy Price: 641.1761
+🎯 Take Profit: 646.8579
+🛑 Stop Loss: 639.2821
+Expected Profit: 0.89%
+---
+[2025-05-16 17:33:48] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3410
+ATR: 0.0304
+✅ Buy Price: 2.3258
+🎯 Take Profit: 2.3714
+🛑 Stop Loss: 2.3106
+Expected Profit: 1.96%
+---
+[2025-05-16 17:33:58] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2197
+ATR: 0.0017
+✅ Buy Price: 0.2188
+🎯 Take Profit: 0.2214
+🛑 Stop Loss: 0.2180
+Expected Profit: 1.18%
+---
+[2025-05-16 17:34:03] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1528
+ATR: 0.0019
+✅ Buy Price: 0.1518
+🎯 Take Profit: 0.1547
+🛑 Stop Loss: 0.1509
+Expected Profit: 1.92%
+---
+[2025-05-16 17:34:10] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1070
+ATR: 0.0015
+✅ Buy Price: 0.1062
+🎯 Take Profit: 0.1085
+🛑 Stop Loss: 0.1055
+Expected Profit: 2.18%
+---
+[2025-05-16 17:34:16] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.6200
+ATR: 0.2229
+✅ Buy Price: 15.5086
+🎯 Take Profit: 15.8429
+🛑 Stop Loss: 15.3971
+Expected Profit: 2.16%
+---
+[2025-05-16 17:34:25] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2702
+ATR: 0.0040
+✅ Buy Price: 0.2682
+🎯 Take Profit: 0.2742
+🛑 Stop Loss: 0.2662
+Expected Profit: 2.25%
+---
+[2025-05-16 17:34:27] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7570
+ATR: 0.0141
+✅ Buy Price: 0.7500
+🎯 Take Profit: 0.7711
+🛑 Stop Loss: 0.7429
+Expected Profit: 2.82%
+---
+[2025-05-16 17:34:34] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.11%
+---
+[2025-05-16 17:34:38] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.3100
+ATR: 0.2707
+✅ Buy Price: 23.1746
+🎯 Take Profit: 23.5807
+🛑 Stop Loss: 23.0393
+Expected Profit: 1.75%
+---
+[2025-05-16 17:34:45] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7470
+ATR: 0.0630
+✅ Buy Price: 4.7155
+🎯 Take Profit: 4.8100
+🛑 Stop Loss: 4.6840
+Expected Profit: 2.00%
+---
+[2025-05-16 17:35:04] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8240
+ATR: 0.0106
+✅ Buy Price: 0.8187
+🎯 Take Profit: 0.8346
+🛑 Stop Loss: 0.8134
+Expected Profit: 1.95%
+---
+[2025-05-16 17:35:08] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1236
+ATR: 0.0016
+✅ Buy Price: 0.1228
+🎯 Take Profit: 0.1252
+🛑 Stop Loss: 0.1220
+Expected Profit: 1.93%
+---
+[2025-05-16 17:35:13] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1296
+ATR: 0.0042
+✅ Buy Price: 0.1275
+🎯 Take Profit: 0.1338
+🛑 Stop Loss: 0.1254
+Expected Profit: 4.91%
+---
+[2025-05-16 17:35:15] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0438
+ATR: 0.0006
+✅ Buy Price: 0.0435
+🎯 Take Profit: 0.0443
+🛑 Stop Loss: 0.0432
+Expected Profit: 2.00%
+---
+[2025-05-16 17:35:17] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7930
+ATR: 0.0133
+✅ Buy Price: 0.7863
+🎯 Take Profit: 0.8063
+🛑 Stop Loss: 0.7797
+Expected Profit: 2.54%
+---
+[2025-05-16 17:35:21] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.28%
+---
+[2025-05-16 17:36:28] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2494.5100
+ATR: 31.2397
+✅ Buy Price: 2478.8901
+🎯 Take Profit: 2525.7497
+🛑 Stop Loss: 2463.2703
+Expected Profit: 1.89%
+---
+[2025-05-16 17:36:30] ⚡ BNB/USDT [1h] ALERT
+Current Price: 642.2600
+ATR: 3.8179
+✅ Buy Price: 640.3510
+🎯 Take Profit: 646.0779
+🛑 Stop Loss: 638.4421
+Expected Profit: 0.89%
+---
+[2025-05-16 17:36:31] ⚡ NEO/USDT [15m] ALERT
+Current Price: 6.5200
+ATR: 0.0470
+✅ Buy Price: 6.4965
+🎯 Take Profit: 6.5670
+🛑 Stop Loss: 6.4730
+Expected Profit: 1.09%
+---
+[2025-05-16 17:36:36] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3310
+ATR: 0.0310
+✅ Buy Price: 2.3155
+🎯 Take Profit: 2.3620
+🛑 Stop Loss: 2.3000
+Expected Profit: 2.01%
+---
+[2025-05-16 17:36:39] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7512
+ATR: 0.0108
+✅ Buy Price: 0.7458
+🎯 Take Profit: 0.7620
+🛑 Stop Loss: 0.7404
+Expected Profit: 2.18%
+---
+[2025-05-16 17:36:41] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3500
+ATR: 0.0284
+✅ Buy Price: 2.3358
+🎯 Take Profit: 2.3784
+🛑 Stop Loss: 2.3216
+Expected Profit: 1.82%
+---
+[2025-05-16 17:36:47] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2183
+ATR: 0.0018
+✅ Buy Price: 0.2174
+🎯 Take Profit: 0.2201
+🛑 Stop Loss: 0.2165
+Expected Profit: 1.25%
+---
+[2025-05-16 17:36:49] ⚡ XLM/USDT [15m] ALERT
+Current Price: 0.2885
+ATR: 0.0019
+✅ Buy Price: 0.2875
+🎯 Take Profit: 0.2904
+🛑 Stop Loss: 0.2866
+Expected Profit: 1.00%
+---
+[2025-05-16 17:36:52] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1516
+ATR: 0.0020
+✅ Buy Price: 0.1506
+🎯 Take Profit: 0.1536
+🛑 Stop Loss: 0.1496
+Expected Profit: 1.99%
+---
+[2025-05-16 17:36:54] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2699
+ATR: 0.0016
+✅ Buy Price: 0.2691
+🎯 Take Profit: 0.2715
+🛑 Stop Loss: 0.2683
+Expected Profit: 0.91%
+---
+[2025-05-16 17:36:59] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1061
+ATR: 0.0016
+✅ Buy Price: 0.1053
+🎯 Take Profit: 0.1077
+🛑 Stop Loss: 0.1045
+Expected Profit: 2.27%
+---
+[2025-05-16 17:37:05] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5100
+ATR: 0.2300
+✅ Buy Price: 15.3950
+🎯 Take Profit: 15.7400
+🛑 Stop Loss: 15.2800
+Expected Profit: 2.24%
+---
+[2025-05-16 17:37:09] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0011
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.70%
+---
+[2025-05-16 17:37:14] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2677
+ATR: 0.0042
+✅ Buy Price: 0.2656
+🎯 Take Profit: 0.2719
+🛑 Stop Loss: 0.2635
+Expected Profit: 2.36%
+---
+[2025-05-16 17:37:16] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7510
+ATR: 0.0144
+✅ Buy Price: 0.7438
+🎯 Take Profit: 0.7654
+🛑 Stop Loss: 0.7366
+Expected Profit: 2.90%
+---
+[2025-05-16 17:37:20] ⚡ ZEC/USDT [15m] ALERT
+Current Price: 40.1100
+ATR: 0.2097
+✅ Buy Price: 40.0052
+🎯 Take Profit: 40.3197
+🛑 Stop Loss: 39.9003
+Expected Profit: 0.79%
+---
+[2025-05-16 17:37:22] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0038
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.17%
+---
+[2025-05-16 17:37:24] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0101
+ATR: 0.0001
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0102
+🛑 Stop Loss: 0.0100
+Expected Profit: 1.39%
+---
+[2025-05-16 17:37:25] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0099
+Expected Profit: 2.86%
+---
+[2025-05-16 17:37:27] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.1900
+ATR: 0.2807
+✅ Buy Price: 23.0496
+🎯 Take Profit: 23.4707
+🛑 Stop Loss: 22.9093
+Expected Profit: 1.83%
+---
+[2025-05-16 17:37:34] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7340
+ATR: 0.0643
+✅ Buy Price: 4.7018
+🎯 Take Profit: 4.7983
+🛑 Stop Loss: 4.6697
+Expected Profit: 2.05%
+---
+[2025-05-16 17:37:38] ⚡ ONE/USDT [1h] ALERT
+Current Price: 0.0140
+ATR: 0.0003
+✅ Buy Price: 0.0139
+🎯 Take Profit: 0.0143
+🛑 Stop Loss: 0.0138
+Expected Profit: 2.89%
+---
+[2025-05-16 17:37:42] ⚡ DOGE/USDT [1h] ALERT
+Current Price: 0.2182
+ATR: 0.0039
+✅ Buy Price: 0.2163
+🎯 Take Profit: 0.2221
+🛑 Stop Loss: 0.2144
+Expected Profit: 2.68%
+---
+[2025-05-16 17:37:51] ⚡ COS/USDT [1h] ALERT
+Current Price: 0.0037
+ATR: 0.0001
+✅ Buy Price: 0.0037
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 2.07%
+---
+[2025-05-16 17:37:53] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8190
+ATR: 0.0111
+✅ Buy Price: 0.8135
+🎯 Take Profit: 0.8301
+🛑 Stop Loss: 0.8079
+Expected Profit: 2.04%
+---
+[2025-05-16 17:37:57] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1234
+ATR: 0.0016
+✅ Buy Price: 0.1226
+🎯 Take Profit: 0.1250
+🛑 Stop Loss: 0.1218
+Expected Profit: 1.93%
+---
+[2025-05-16 17:38:02] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1273
+ATR: 0.0043
+✅ Buy Price: 0.1251
+🎯 Take Profit: 0.1316
+🛑 Stop Loss: 0.1230
+Expected Profit: 5.16%
+---
+[2025-05-16 17:38:04] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0436
+ATR: 0.0006
+✅ Buy Price: 0.0433
+🎯 Take Profit: 0.0442
+🛑 Stop Loss: 0.0430
+Expected Profit: 2.07%
+---
+[2025-05-16 17:38:06] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7880
+ATR: 0.0137
+✅ Buy Price: 0.7811
+🎯 Take Profit: 0.8017
+🛑 Stop Loss: 0.7743
+Expected Profit: 2.64%
+---
+[2025-05-16 17:38:08] ⚡ XTZ/USDT [1h] ALERT
+Current Price: 0.6260
+ATR: 0.0090
+✅ Buy Price: 0.6215
+🎯 Take Profit: 0.6350
+🛑 Stop Loss: 0.6170
+Expected Profit: 2.18%
+---
+[2025-05-16 17:38:10] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.33%
+---
+[2025-05-16 17:38:12] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1926
+ATR: 0.0027
+✅ Buy Price: 0.1913
+🎯 Take Profit: 0.1953
+🛑 Stop Loss: 0.1899
+Expected Profit: 2.09%
+---
+[2025-05-16 17:39:17] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2493.5500
+ATR: 32.0038
+✅ Buy Price: 2477.5481
+🎯 Take Profit: 2525.5538
+🛑 Stop Loss: 2461.5462
+Expected Profit: 1.94%
+---
+[2025-05-16 17:39:19] ⚡ BNB/USDT [1h] ALERT
+Current Price: 642.3200
+ATR: 3.8722
+✅ Buy Price: 640.3839
+🎯 Take Profit: 646.1922
+🛑 Stop Loss: 638.4478
+Expected Profit: 0.91%
+---
+[2025-05-16 17:39:20] ⚡ NEO/USDT [15m] ALERT
+Current Price: 6.5300
+ATR: 0.0491
+✅ Buy Price: 6.5054
+🎯 Take Profit: 6.5791
+🛑 Stop Loss: 6.4809
+Expected Profit: 1.13%
+---
+[2025-05-16 17:39:21] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5300
+ATR: 0.1018
+✅ Buy Price: 6.4791
+🎯 Take Profit: 6.6318
+🛑 Stop Loss: 6.4282
+Expected Profit: 2.36%
+---
+[2025-05-16 17:39:23] ⚡ LTC/USDT [1h] ALERT
+Current Price: 99.2300
+ATR: 1.1326
+✅ Buy Price: 98.6637
+🎯 Take Profit: 100.3626
+🛑 Stop Loss: 98.0974
+Expected Profit: 1.72%
+---
+[2025-05-16 17:39:25] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3320
+ATR: 0.0314
+✅ Buy Price: 2.3163
+🎯 Take Profit: 2.3634
+🛑 Stop Loss: 2.3006
+Expected Profit: 2.03%
+---
+[2025-05-16 17:39:28] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7507
+ATR: 0.0111
+✅ Buy Price: 0.7451
+🎯 Take Profit: 0.7618
+🛑 Stop Loss: 0.7396
+Expected Profit: 2.24%
+---
+[2025-05-16 17:39:30] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3515
+ATR: 0.0291
+✅ Buy Price: 2.3369
+🎯 Take Profit: 2.3806
+🛑 Stop Loss: 2.3224
+Expected Profit: 1.87%
+---
+[2025-05-16 17:39:36] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2190
+ATR: 0.0018
+✅ Buy Price: 0.2181
+🎯 Take Profit: 0.2208
+🛑 Stop Loss: 0.2172
+Expected Profit: 1.26%
+---
+[2025-05-16 17:39:36] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2190
+ATR: 0.0039
+✅ Buy Price: 0.2170
+🎯 Take Profit: 0.2229
+🛑 Stop Loss: 0.2151
+Expected Profit: 2.71%
+---
+[2025-05-16 17:39:38] ⚡ XLM/USDT [15m] ALERT
+Current Price: 0.2891
+ATR: 0.0019
+✅ Buy Price: 0.2881
+🎯 Take Profit: 0.2910
+🛑 Stop Loss: 0.2872
+Expected Profit: 1.00%
+---
+[2025-05-16 17:39:41] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1522
+ATR: 0.0020
+✅ Buy Price: 0.1512
+🎯 Take Profit: 0.1542
+🛑 Stop Loss: 0.1502
+Expected Profit: 1.99%
+---
+[2025-05-16 17:39:43] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2699
+ATR: 0.0016
+✅ Buy Price: 0.2691
+🎯 Take Profit: 0.2715
+🛑 Stop Loss: 0.2683
+Expected Profit: 0.92%
+---
+[2025-05-16 17:39:45] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.5000
+ATR: 0.2467
+✅ Buy Price: 18.3766
+🎯 Take Profit: 18.7467
+🛑 Stop Loss: 18.2533
+Expected Profit: 2.01%
+---
+[2025-05-16 17:39:47] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1068
+ATR: 0.0016
+✅ Buy Price: 0.1060
+🎯 Take Profit: 0.1084
+🛑 Stop Loss: 0.1052
+Expected Profit: 2.26%
+---
+[2025-05-16 17:39:49] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0280
+🎯 Take Profit: 0.0287
+🛑 Stop Loss: 0.0277
+Expected Profit: 2.42%
+---
+[2025-05-16 17:39:54] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5600
+ATR: 0.2300
+✅ Buy Price: 15.4450
+🎯 Take Profit: 15.7900
+🛑 Stop Loss: 15.3300
+Expected Profit: 2.23%
+---
+[2025-05-16 17:39:59] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.68%
+---
+[2025-05-16 17:40:01] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0130
+ATR: 0.0002
+✅ Buy Price: 0.0129
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0128
+Expected Profit: 2.31%
+---
+[2025-05-16 17:40:03] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2690
+ATR: 0.0042
+✅ Buy Price: 0.2669
+🎯 Take Profit: 0.2732
+🛑 Stop Loss: 0.2648
+Expected Profit: 2.34%
+---
+[2025-05-16 17:40:05] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7540
+ATR: 0.0144
+✅ Buy Price: 0.7468
+🎯 Take Profit: 0.7684
+🛑 Stop Loss: 0.7396
+Expected Profit: 2.89%
+---
+[2025-05-16 17:40:07] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1489
+ATR: 0.0019
+✅ Buy Price: 0.1479
+🎯 Take Profit: 0.1508
+🛑 Stop Loss: 0.1470
+Expected Profit: 1.97%
+---
+[2025-05-16 17:40:09] ⚡ ZEC/USDT [15m] ALERT
+Current Price: 40.2000
+ATR: 0.2104
+✅ Buy Price: 40.0948
+🎯 Take Profit: 40.4104
+🛑 Stop Loss: 39.9896
+Expected Profit: 0.79%
+---
+[2025-05-16 17:40:09] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2000
+ATR: 0.5211
+✅ Buy Price: 39.9395
+🎯 Take Profit: 40.7211
+🛑 Stop Loss: 39.6789
+Expected Profit: 1.96%
+---
+[2025-05-16 17:40:12] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.17%
+---
+[2025-05-16 17:40:13] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0101
+ATR: 0.0001
+✅ Buy Price: 0.0101
+🎯 Take Profit: 0.0102
+🛑 Stop Loss: 0.0100
+Expected Profit: 1.38%
+---
+[2025-05-16 17:40:14] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0099
+Expected Profit: 2.85%
+---
+[2025-05-16 17:40:16] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.3000
+ATR: 0.2807
+✅ Buy Price: 23.1596
+🎯 Take Profit: 23.5807
+🛑 Stop Loss: 23.0193
+Expected Profit: 1.82%
+---
+[2025-05-16 17:40:18] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8690
+ATR: 0.0157
+✅ Buy Price: 0.8612
+🎯 Take Profit: 0.8847
+🛑 Stop Loss: 0.8533
+Expected Profit: 2.73%
+---
+[2025-05-16 17:40:20] ⚡ ENJ/USDT [15m] ALERT
+Current Price: 0.0872
+ATR: 0.0008
+✅ Buy Price: 0.0868
+🎯 Take Profit: 0.0880
+🛑 Stop Loss: 0.0864
+Expected Profit: 1.40%
+---
+[2025-05-16 17:40:23] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7420
+ATR: 0.0643
+✅ Buy Price: 4.7098
+🎯 Take Profit: 4.8063
+🛑 Stop Loss: 4.6777
+Expected Profit: 2.05%
+---
+[2025-05-16 17:40:27] ⚡ ONE/USDT [1h] ALERT
+Current Price: 0.0141
+ATR: 0.0003
+✅ Buy Price: 0.0139
+🎯 Take Profit: 0.0143
+🛑 Stop Loss: 0.0138
+Expected Profit: 2.88%
+---
+[2025-05-16 17:40:29] ⚡ ALGO/USDT [1h] ALERT
+Current Price: 0.2202
+ATR: 0.0035
+✅ Buy Price: 0.2184
+🎯 Take Profit: 0.2237
+🛑 Stop Loss: 0.2167
+Expected Profit: 2.40%
+---
+[2025-05-16 17:40:31] ⚡ DOGE/USDT [1h] ALERT
+Current Price: 0.2185
+ATR: 0.0039
+✅ Buy Price: 0.2166
+🎯 Take Profit: 0.2224
+🛑 Stop Loss: 0.2146
+Expected Profit: 2.67%
+---
+[2025-05-16 17:40:35] ⚡ ANKR/USDT [1h] ALERT
+Current Price: 0.0189
+ATR: 0.0003
+✅ Buy Price: 0.0188
+🎯 Take Profit: 0.0192
+🛑 Stop Loss: 0.0186
+Expected Profit: 2.10%
+---
+[2025-05-16 17:40:40] ⚡ COS/USDT [1h] ALERT
+Current Price: 0.0037
+ATR: 0.0001
+✅ Buy Price: 0.0037
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 2.08%
+---
+[2025-05-16 17:40:42] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8220
+ATR: 0.0111
+✅ Buy Price: 0.8165
+🎯 Take Profit: 0.8331
+🛑 Stop Loss: 0.8109
+Expected Profit: 2.03%
+---
+[2025-05-16 17:40:46] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1235
+ATR: 0.0016
+✅ Buy Price: 0.1227
+🎯 Take Profit: 0.1251
+🛑 Stop Loss: 0.1219
+Expected Profit: 1.93%
+---
+[2025-05-16 17:40:51] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1275
+ATR: 0.0043
+✅ Buy Price: 0.1253
+🎯 Take Profit: 0.1318
+🛑 Stop Loss: 0.1232
+Expected Profit: 5.15%
+---
+[2025-05-16 17:40:53] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0437
+ATR: 0.0006
+✅ Buy Price: 0.0434
+🎯 Take Profit: 0.0443
+🛑 Stop Loss: 0.0431
+Expected Profit: 2.06%
+---
+[2025-05-16 17:40:55] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7900
+ATR: 0.0137
+✅ Buy Price: 0.7831
+🎯 Take Profit: 0.8037
+🛑 Stop Loss: 0.7763
+Expected Profit: 2.63%
+---
+[2025-05-16 17:40:57] ⚡ XTZ/USDT [1h] ALERT
+Current Price: 0.6271
+ATR: 0.0090
+✅ Buy Price: 0.6226
+🎯 Take Profit: 0.6361
+🛑 Stop Loss: 0.6181
+Expected Profit: 2.18%
+---
+[2025-05-16 17:40:59] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.32%
+---
+[2025-05-16 17:41:01] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1928
+ATR: 0.0027
+✅ Buy Price: 0.1915
+🎯 Take Profit: 0.1955
+🛑 Stop Loss: 0.1901
+Expected Profit: 2.09%
+---
+[2025-05-16 17:42:06] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2495.6000
+ATR: 32.0038
+✅ Buy Price: 2479.5981
+🎯 Take Profit: 2527.6038
+🛑 Stop Loss: 2463.5962
+Expected Profit: 1.94%
+---
+[2025-05-16 17:42:08] ⚡ BNB/USDT [1h] ALERT
+Current Price: 641.2900
+ATR: 3.9080
+✅ Buy Price: 639.3360
+🎯 Take Profit: 645.1980
+🛑 Stop Loss: 637.3820
+Expected Profit: 0.92%
+---
+[2025-05-16 17:42:09] ⚡ NEO/USDT [15m] ALERT
+Current Price: 6.5100
+ATR: 0.0491
+✅ Buy Price: 6.4854
+🎯 Take Profit: 6.5591
+🛑 Stop Loss: 6.4609
+Expected Profit: 1.14%
+---
+[2025-05-16 17:42:10] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5100
+ATR: 0.1018
+✅ Buy Price: 6.4591
+🎯 Take Profit: 6.6118
+🛑 Stop Loss: 6.4082
+Expected Profit: 2.36%
+---
+[2025-05-16 17:42:12] ⚡ LTC/USDT [1h] ALERT
+Current Price: 98.7900
+ATR: 1.1541
+✅ Buy Price: 98.2130
+🎯 Take Profit: 99.9441
+🛑 Stop Loss: 97.6359
+Expected Profit: 1.76%
+---
+[2025-05-16 17:42:14] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3320
+ATR: 0.0314
+✅ Buy Price: 2.3163
+🎯 Take Profit: 2.3634
+🛑 Stop Loss: 2.3006
+Expected Profit: 2.03%
+---
+[2025-05-16 17:42:16] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7497
+ATR: 0.0111
+✅ Buy Price: 0.7441
+🎯 Take Profit: 0.7608
+🛑 Stop Loss: 0.7386
+Expected Profit: 2.24%
+---
+[2025-05-16 17:42:19] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3461
+ATR: 0.0291
+✅ Buy Price: 2.3315
+🎯 Take Profit: 2.3752
+🛑 Stop Loss: 2.3170
+Expected Profit: 1.87%
+---
+[2025-05-16 17:42:24] ⚡ IOTA/USDT [15m] ALERT
+Current Price: 0.2184
+ATR: 0.0018
+✅ Buy Price: 0.2175
+🎯 Take Profit: 0.2202
+🛑 Stop Loss: 0.2166
+Expected Profit: 1.27%
+---
+[2025-05-16 17:42:25] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2184
+ATR: 0.0039
+✅ Buy Price: 0.2164
+🎯 Take Profit: 0.2223
+🛑 Stop Loss: 0.2145
+Expected Profit: 2.72%
+---
+[2025-05-16 17:42:27] ⚡ XLM/USDT [15m] ALERT
+Current Price: 0.2888
+ATR: 0.0019
+✅ Buy Price: 0.2878
+🎯 Take Profit: 0.2907
+🛑 Stop Loss: 0.2869
+Expected Profit: 1.00%
+---
+[2025-05-16 17:42:29] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1519
+ATR: 0.0020
+✅ Buy Price: 0.1509
+🎯 Take Profit: 0.1539
+🛑 Stop Loss: 0.1499
+Expected Profit: 1.99%
+---
+[2025-05-16 17:42:32] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2700
+ATR: 0.0016
+✅ Buy Price: 0.2692
+🎯 Take Profit: 0.2716
+🛑 Stop Loss: 0.2684
+Expected Profit: 0.92%
+---
+[2025-05-16 17:42:34] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.4900
+ATR: 0.2467
+✅ Buy Price: 18.3666
+🎯 Take Profit: 18.7367
+🛑 Stop Loss: 18.2433
+Expected Profit: 2.01%
+---
+[2025-05-16 17:42:36] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1066
+ATR: 0.0016
+✅ Buy Price: 0.1058
+🎯 Take Profit: 0.1082
+🛑 Stop Loss: 0.1050
+Expected Profit: 2.26%
+---
+[2025-05-16 17:42:38] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0279
+🎯 Take Profit: 0.0286
+🛑 Stop Loss: 0.0277
+Expected Profit: 2.42%
+---
+[2025-05-16 17:42:42] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5600
+ATR: 0.2300
+✅ Buy Price: 15.4450
+🎯 Take Profit: 15.7900
+🛑 Stop Loss: 15.3300
+Expected Profit: 2.23%
+---
+[2025-05-16 17:42:47] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.68%
+---
+[2025-05-16 17:42:49] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0130
+ATR: 0.0002
+✅ Buy Price: 0.0129
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0128
+Expected Profit: 2.30%
+---
+[2025-05-16 17:42:51] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2697
+ATR: 0.0042
+✅ Buy Price: 0.2676
+🎯 Take Profit: 0.2739
+🛑 Stop Loss: 0.2655
+Expected Profit: 2.34%
+---
+[2025-05-16 17:42:53] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7530
+ATR: 0.0144
+✅ Buy Price: 0.7458
+🎯 Take Profit: 0.7674
+🛑 Stop Loss: 0.7386
+Expected Profit: 2.89%
+---
+[2025-05-16 17:42:55] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1486
+ATR: 0.0019
+✅ Buy Price: 0.1476
+🎯 Take Profit: 0.1505
+🛑 Stop Loss: 0.1467
+Expected Profit: 1.98%
+---
+[2025-05-16 17:42:57] ⚡ ZEC/USDT [15m] ALERT
+Current Price: 40.2300
+ATR: 0.2118
+✅ Buy Price: 40.1241
+🎯 Take Profit: 40.4418
+🛑 Stop Loss: 40.0182
+Expected Profit: 0.79%
+---
+[2025-05-16 17:42:57] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2300
+ATR: 0.5211
+✅ Buy Price: 39.9695
+🎯 Take Profit: 40.7511
+🛑 Stop Loss: 39.7089
+Expected Profit: 1.96%
+---
+[2025-05-16 17:43:00] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.16%
+---
+[2025-05-16 17:43:01] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0101
+ATR: 0.0001
+✅ Buy Price: 0.0101
+🎯 Take Profit: 0.0102
+🛑 Stop Loss: 0.0100
+Expected Profit: 1.38%
+---
+[2025-05-16 17:43:02] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0099
+Expected Profit: 2.85%
+---
+[2025-05-16 17:43:04] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.2300
+ATR: 0.2807
+✅ Buy Price: 23.0896
+🎯 Take Profit: 23.5107
+🛑 Stop Loss: 22.9493
+Expected Profit: 1.82%
+---
+[2025-05-16 17:43:07] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8700
+ATR: 0.0157
+✅ Buy Price: 0.8622
+🎯 Take Profit: 0.8857
+🛑 Stop Loss: 0.8543
+Expected Profit: 2.72%
+---
+[2025-05-16 17:43:08] ⚡ ENJ/USDT [15m] ALERT
+Current Price: 0.0874
+ATR: 0.0008
+✅ Buy Price: 0.0870
+🎯 Take Profit: 0.0882
+🛑 Stop Loss: 0.0866
+Expected Profit: 1.39%
+---
+[2025-05-16 17:43:11] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7460
+ATR: 0.0643
+✅ Buy Price: 4.7138
+🎯 Take Profit: 4.8103
+🛑 Stop Loss: 4.6817
+Expected Profit: 2.05%
+---
+[2025-05-16 17:43:12] ⚡ TFUEL/USDT [15m] ALERT
+Current Price: 0.0378
+ATR: 0.0002
+✅ Buy Price: 0.0377
+🎯 Take Profit: 0.0380
+🛑 Stop Loss: 0.0376
+Expected Profit: 0.88%
+---
+[2025-05-16 17:43:15] ⚡ ONE/USDT [1h] ALERT
+Current Price: 0.0141
+ATR: 0.0003
+✅ Buy Price: 0.0140
+🎯 Take Profit: 0.0144
+🛑 Stop Loss: 0.0138
+Expected Profit: 2.88%
+---
+[2025-05-16 17:43:17] ⚡ ALGO/USDT [1h] ALERT
+Current Price: 0.2201
+ATR: 0.0035
+✅ Buy Price: 0.2183
+🎯 Take Profit: 0.2236
+🛑 Stop Loss: 0.2166
+Expected Profit: 2.41%
+---
+[2025-05-16 17:43:20] ⚡ DOGE/USDT [1h] ALERT
+Current Price: 0.2188
+ATR: 0.0039
+✅ Buy Price: 0.2169
+🎯 Take Profit: 0.2227
+🛑 Stop Loss: 0.2150
+Expected Profit: 2.67%
+---
+[2025-05-16 17:43:24] ⚡ ANKR/USDT [1h] ALERT
+Current Price: 0.0189
+ATR: 0.0003
+✅ Buy Price: 0.0188
+🎯 Take Profit: 0.0192
+🛑 Stop Loss: 0.0186
+Expected Profit: 2.10%
+---
+[2025-05-16 17:43:28] ⚡ COS/USDT [1h] ALERT
+Current Price: 0.0037
+ATR: 0.0001
+✅ Buy Price: 0.0037
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 2.08%
+---
+[2025-05-16 17:43:30] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8220
+ATR: 0.0111
+✅ Buy Price: 0.8165
+🎯 Take Profit: 0.8331
+🛑 Stop Loss: 0.8109
+Expected Profit: 2.03%
+---
+[2025-05-16 17:43:35] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1236
+ATR: 0.0016
+✅ Buy Price: 0.1228
+🎯 Take Profit: 0.1252
+🛑 Stop Loss: 0.1220
+Expected Profit: 1.93%
+---
+[2025-05-16 17:43:39] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1272
+ATR: 0.0043
+✅ Buy Price: 0.1250
+🎯 Take Profit: 0.1315
+🛑 Stop Loss: 0.1229
+Expected Profit: 5.16%
+---
+[2025-05-16 17:43:41] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0436
+ATR: 0.0006
+✅ Buy Price: 0.0433
+🎯 Take Profit: 0.0442
+🛑 Stop Loss: 0.0430
+Expected Profit: 2.07%
+---
+[2025-05-16 17:43:43] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7900
+ATR: 0.0137
+✅ Buy Price: 0.7831
+🎯 Take Profit: 0.8037
+🛑 Stop Loss: 0.7763
+Expected Profit: 2.63%
+---
+[2025-05-16 17:43:45] ⚡ XTZ/USDT [1h] ALERT
+Current Price: 0.6263
+ATR: 0.0090
+✅ Buy Price: 0.6218
+🎯 Take Profit: 0.6353
+🛑 Stop Loss: 0.6173
+Expected Profit: 2.18%
+---
+[2025-05-16 17:43:48] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.33%
+---
+[2025-05-16 17:43:50] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1925
+ATR: 0.0027
+✅ Buy Price: 0.1912
+🎯 Take Profit: 0.1952
+🛑 Stop Loss: 0.1899
+Expected Profit: 2.09%
+---
+[2025-05-16 17:44:54] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2506.6700
+ATR: 32.0038
+✅ Buy Price: 2490.6681
+🎯 Take Profit: 2538.6738
+🛑 Stop Loss: 2474.6662
+Expected Profit: 1.93%
+---
+[2025-05-16 17:44:56] ⚡ BNB/USDT [1h] ALERT
+Current Price: 642.0900
+ATR: 3.9080
+✅ Buy Price: 640.1360
+🎯 Take Profit: 645.9980
+🛑 Stop Loss: 638.1820
+Expected Profit: 0.92%
+---
+[2025-05-16 17:44:58] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5100
+ATR: 0.1018
+✅ Buy Price: 6.4591
+🎯 Take Profit: 6.6118
+🛑 Stop Loss: 6.4082
+Expected Profit: 2.36%
+---
+[2025-05-16 17:45:01] ⚡ LTC/USDT [1h] ALERT
+Current Price: 98.9700
+ATR: 1.1541
+✅ Buy Price: 98.3930
+🎯 Take Profit: 100.1241
+🛑 Stop Loss: 97.8159
+Expected Profit: 1.76%
+---
+[2025-05-16 17:45:03] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3350
+ATR: 0.0314
+✅ Buy Price: 2.3193
+🎯 Take Profit: 2.3664
+🛑 Stop Loss: 2.3036
+Expected Profit: 2.03%
+---
+[2025-05-16 17:45:05] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7503
+ATR: 0.0111
+✅ Buy Price: 0.7447
+🎯 Take Profit: 0.7614
+🛑 Stop Loss: 0.7392
+Expected Profit: 2.24%
+---
+[2025-05-16 17:45:07] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3496
+ATR: 0.0291
+✅ Buy Price: 2.3350
+🎯 Take Profit: 2.3787
+🛑 Stop Loss: 2.3205
+Expected Profit: 1.87%
+---
+[2025-05-16 17:45:14] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2189
+ATR: 0.0039
+✅ Buy Price: 0.2169
+🎯 Take Profit: 0.2228
+🛑 Stop Loss: 0.2150
+Expected Profit: 2.71%
+---
+[2025-05-16 17:45:18] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1523
+ATR: 0.0020
+✅ Buy Price: 0.1513
+🎯 Take Profit: 0.1543
+🛑 Stop Loss: 0.1503
+Expected Profit: 1.99%
+---
+[2025-05-16 17:45:20] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2697
+ATR: 0.0016
+✅ Buy Price: 0.2689
+🎯 Take Profit: 0.2713
+🛑 Stop Loss: 0.2681
+Expected Profit: 0.92%
+---
+[2025-05-16 17:45:22] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.5000
+ATR: 0.2467
+✅ Buy Price: 18.3766
+🎯 Take Profit: 18.7467
+🛑 Stop Loss: 18.2533
+Expected Profit: 2.01%
+---
+[2025-05-16 17:45:25] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1066
+ATR: 0.0016
+✅ Buy Price: 0.1058
+🎯 Take Profit: 0.1082
+🛑 Stop Loss: 0.1050
+Expected Profit: 2.26%
+---
+[2025-05-16 17:45:27] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0279
+🎯 Take Profit: 0.0286
+🛑 Stop Loss: 0.0277
+Expected Profit: 2.42%
+---
+[2025-05-16 17:45:31] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5500
+ATR: 0.2300
+✅ Buy Price: 15.4350
+🎯 Take Profit: 15.7800
+🛑 Stop Loss: 15.3200
+Expected Profit: 2.24%
+---
+[2025-05-16 17:45:36] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.68%
+---
+[2025-05-16 17:45:38] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0130
+ATR: 0.0002
+✅ Buy Price: 0.0129
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0128
+Expected Profit: 2.30%
+---
+[2025-05-16 17:45:40] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2693
+ATR: 0.0042
+✅ Buy Price: 0.2672
+🎯 Take Profit: 0.2735
+🛑 Stop Loss: 0.2651
+Expected Profit: 2.34%
+---
+[2025-05-16 17:45:42] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7520
+ATR: 0.0144
+✅ Buy Price: 0.7448
+🎯 Take Profit: 0.7664
+🛑 Stop Loss: 0.7376
+Expected Profit: 2.90%
+---
+[2025-05-16 17:45:44] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1488
+ATR: 0.0019
+✅ Buy Price: 0.1478
+🎯 Take Profit: 0.1507
+🛑 Stop Loss: 0.1469
+Expected Profit: 1.97%
+---
+[2025-05-16 17:45:47] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2800
+ATR: 0.5211
+✅ Buy Price: 40.0195
+🎯 Take Profit: 40.8011
+🛑 Stop Loss: 39.7589
+Expected Profit: 1.95%
+---
+[2025-05-16 17:45:49] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.17%
+---
+[2025-05-16 17:45:51] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0101
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0100
+Expected Profit: 2.84%
+---
+[2025-05-16 17:45:53] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.2300
+ATR: 0.2807
+✅ Buy Price: 23.0896
+🎯 Take Profit: 23.5107
+🛑 Stop Loss: 22.9493
+Expected Profit: 1.82%
+---
+[2025-05-16 17:45:55] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8700
+ATR: 0.0157
+✅ Buy Price: 0.8622
+🎯 Take Profit: 0.8857
+🛑 Stop Loss: 0.8543
+Expected Profit: 2.72%
+---
+[2025-05-16 17:46:10] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2503.8700
+ATR: 32.0038
+✅ Buy Price: 2487.8681
+🎯 Take Profit: 2535.8738
+🛑 Stop Loss: 2471.8662
+Expected Profit: 1.93%
+---
+[2025-05-16 17:46:12] ⚡ BNB/USDT [1h] ALERT
+Current Price: 641.7000
+ATR: 3.9080
+✅ Buy Price: 639.7460
+🎯 Take Profit: 645.6080
+🛑 Stop Loss: 637.7920
+Expected Profit: 0.92%
+---
+[2025-05-16 17:46:14] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5100
+ATR: 0.1018
+✅ Buy Price: 6.4591
+🎯 Take Profit: 6.6118
+🛑 Stop Loss: 6.4082
+Expected Profit: 2.36%
+---
+[2025-05-16 17:46:16] ⚡ LTC/USDT [1h] ALERT
+Current Price: 98.9100
+ATR: 1.1541
+✅ Buy Price: 98.3330
+🎯 Take Profit: 100.0641
+🛑 Stop Loss: 97.7559
+Expected Profit: 1.76%
+---
+[2025-05-16 17:46:18] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3310
+ATR: 0.0314
+✅ Buy Price: 2.3153
+🎯 Take Profit: 2.3624
+🛑 Stop Loss: 2.2996
+Expected Profit: 2.03%
+---
+[2025-05-16 17:46:20] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7493
+ATR: 0.0111
+✅ Buy Price: 0.7437
+🎯 Take Profit: 0.7604
+🛑 Stop Loss: 0.7382
+Expected Profit: 2.24%
+---
+[2025-05-16 17:46:23] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3474
+ATR: 0.0291
+✅ Buy Price: 2.3328
+🎯 Take Profit: 2.3765
+🛑 Stop Loss: 2.3183
+Expected Profit: 1.87%
+---
+[2025-05-16 17:46:29] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2188
+ATR: 0.0039
+✅ Buy Price: 0.2168
+🎯 Take Profit: 0.2227
+🛑 Stop Loss: 0.2149
+Expected Profit: 2.71%
+---
+[2025-05-16 17:46:31] ⚡ XLM/USDT [1h] ALERT
+Current Price: 0.2893
+ATR: 0.0039
+✅ Buy Price: 0.2874
+🎯 Take Profit: 0.2932
+🛑 Stop Loss: 0.2854
+Expected Profit: 2.04%
+---
+[2025-05-16 17:46:33] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1521
+ATR: 0.0020
+✅ Buy Price: 0.1511
+🎯 Take Profit: 0.1541
+🛑 Stop Loss: 0.1501
+Expected Profit: 1.99%
+---
+[2025-05-16 17:46:36] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2697
+ATR: 0.0016
+✅ Buy Price: 0.2689
+🎯 Take Profit: 0.2713
+🛑 Stop Loss: 0.2681
+Expected Profit: 0.92%
+---
+[2025-05-16 17:46:38] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.5100
+ATR: 0.2467
+✅ Buy Price: 18.3866
+🎯 Take Profit: 18.7567
+🛑 Stop Loss: 18.2633
+Expected Profit: 2.01%
+---
+[2025-05-16 17:46:40] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1066
+ATR: 0.0016
+✅ Buy Price: 0.1058
+🎯 Take Profit: 0.1082
+🛑 Stop Loss: 0.1050
+Expected Profit: 2.26%
+---
+[2025-05-16 17:46:42] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0279
+🎯 Take Profit: 0.0286
+🛑 Stop Loss: 0.0277
+Expected Profit: 2.42%
+---
+[2025-05-16 17:46:47] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5300
+ATR: 0.2300
+✅ Buy Price: 15.4150
+🎯 Take Profit: 15.7600
+🛑 Stop Loss: 15.3000
+Expected Profit: 2.24%
+---
+[2025-05-16 17:46:51] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.68%
+---
+[2025-05-16 17:46:53] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0130
+ATR: 0.0002
+✅ Buy Price: 0.0129
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0128
+Expected Profit: 2.31%
+---
+[2025-05-16 17:46:55] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2691
+ATR: 0.0042
+✅ Buy Price: 0.2670
+🎯 Take Profit: 0.2733
+🛑 Stop Loss: 0.2649
+Expected Profit: 2.34%
+---
+[2025-05-16 17:46:57] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7510
+ATR: 0.0144
+✅ Buy Price: 0.7438
+🎯 Take Profit: 0.7654
+🛑 Stop Loss: 0.7366
+Expected Profit: 2.90%
+---
+[2025-05-16 17:47:00] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1484
+ATR: 0.0019
+✅ Buy Price: 0.1474
+🎯 Take Profit: 0.1503
+🛑 Stop Loss: 0.1465
+Expected Profit: 1.98%
+---
+[2025-05-16 17:47:02] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2400
+ATR: 0.5211
+✅ Buy Price: 39.9795
+🎯 Take Profit: 40.7611
+🛑 Stop Loss: 39.7189
+Expected Profit: 1.96%
+---
+[2025-05-16 17:47:04] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.17%
+---
+[2025-05-16 17:47:06] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0099
+Expected Profit: 2.85%
+---
+[2025-05-16 17:47:08] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.2000
+ATR: 0.2807
+✅ Buy Price: 23.0596
+🎯 Take Profit: 23.4807
+🛑 Stop Loss: 22.9193
+Expected Profit: 1.83%
+---
+[2025-05-16 17:47:10] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8710
+ATR: 0.0157
+✅ Buy Price: 0.8632
+🎯 Take Profit: 0.8867
+🛑 Stop Loss: 0.8553
+Expected Profit: 2.72%
+---
+[2025-05-16 17:47:15] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7520
+ATR: 0.0643
+✅ Buy Price: 4.7198
+🎯 Take Profit: 4.8163
+🛑 Stop Loss: 4.6877
+Expected Profit: 2.04%
+---
+[2025-05-16 17:47:19] ⚡ ONE/USDT [1h] ALERT
+Current Price: 0.0141
+ATR: 0.0003
+✅ Buy Price: 0.0140
+🎯 Take Profit: 0.0144
+🛑 Stop Loss: 0.0139
+Expected Profit: 2.87%
+---
+[2025-05-16 17:47:21] ⚡ ALGO/USDT [1h] ALERT
+Current Price: 0.2207
+ATR: 0.0035
+✅ Buy Price: 0.2189
+🎯 Take Profit: 0.2242
+🛑 Stop Loss: 0.2172
+Expected Profit: 2.40%
+---
+[2025-05-16 17:47:23] ⚡ DOGE/USDT [1h] ALERT
+Current Price: 0.2193
+ATR: 0.0039
+✅ Buy Price: 0.2173
+🎯 Take Profit: 0.2231
+🛑 Stop Loss: 0.2154
+Expected Profit: 2.66%
+---
+[2025-05-16 17:47:28] ⚡ ANKR/USDT [1h] ALERT
+Current Price: 0.0189
+ATR: 0.0003
+✅ Buy Price: 0.0188
+🎯 Take Profit: 0.0192
+🛑 Stop Loss: 0.0187
+Expected Profit: 2.09%
+---
+[2025-05-16 17:47:32] ⚡ COS/USDT [1h] ALERT
+Current Price: 0.0037
+ATR: 0.0001
+✅ Buy Price: 0.0037
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 2.08%
+---
+[2025-05-16 17:47:34] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8220
+ATR: 0.0111
+✅ Buy Price: 0.8165
+🎯 Take Profit: 0.8331
+🛑 Stop Loss: 0.8109
+Expected Profit: 2.03%
+---
+[2025-05-16 17:47:38] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1239
+ATR: 0.0016
+✅ Buy Price: 0.1231
+🎯 Take Profit: 0.1255
+🛑 Stop Loss: 0.1223
+Expected Profit: 1.92%
+---
+[2025-05-16 17:47:43] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1277
+ATR: 0.0043
+✅ Buy Price: 0.1255
+🎯 Take Profit: 0.1320
+🛑 Stop Loss: 0.1234
+Expected Profit: 5.14%
+---
+[2025-05-16 17:47:45] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0437
+ATR: 0.0006
+✅ Buy Price: 0.0434
+🎯 Take Profit: 0.0443
+🛑 Stop Loss: 0.0431
+Expected Profit: 2.06%
+---
+[2025-05-16 17:47:47] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7930
+ATR: 0.0137
+✅ Buy Price: 0.7861
+🎯 Take Profit: 0.8067
+🛑 Stop Loss: 0.7793
+Expected Profit: 2.62%
+---
+[2025-05-16 17:47:49] ⚡ XTZ/USDT [1h] ALERT
+Current Price: 0.6276
+ATR: 0.0090
+✅ Buy Price: 0.6231
+🎯 Take Profit: 0.6366
+🛑 Stop Loss: 0.6186
+Expected Profit: 2.18%
+---
+[2025-05-16 17:47:51] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.32%
+---
+[2025-05-16 17:47:54] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1931
+ATR: 0.0027
+✅ Buy Price: 0.1918
+🎯 Take Profit: 0.1958
+🛑 Stop Loss: 0.1905
+Expected Profit: 2.09%
+---
+[2025-05-16 17:48:58] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2507.2700
+ATR: 32.0038
+✅ Buy Price: 2491.2681
+🎯 Take Profit: 2539.2738
+🛑 Stop Loss: 2475.2662
+Expected Profit: 1.93%
+---
+[2025-05-16 17:49:00] ⚡ BNB/USDT [1h] ALERT
+Current Price: 642.5900
+ATR: 3.9080
+✅ Buy Price: 640.6360
+🎯 Take Profit: 646.4980
+🛑 Stop Loss: 638.6820
+Expected Profit: 0.92%
+---
+[2025-05-16 17:49:02] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5200
+ATR: 0.1018
+✅ Buy Price: 6.4691
+🎯 Take Profit: 6.6218
+🛑 Stop Loss: 6.4182
+Expected Profit: 2.36%
+---
+[2025-05-16 17:49:04] ⚡ LTC/USDT [1h] ALERT
+Current Price: 99.1800
+ATR: 1.1541
+✅ Buy Price: 98.6030
+🎯 Take Profit: 100.3341
+🛑 Stop Loss: 98.0259
+Expected Profit: 1.76%
+---
+[2025-05-16 17:49:07] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3360
+ATR: 0.0314
+✅ Buy Price: 2.3203
+🎯 Take Profit: 2.3674
+🛑 Stop Loss: 2.3046
+Expected Profit: 2.03%
+---
+[2025-05-16 17:49:09] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7514
+ATR: 0.0111
+✅ Buy Price: 0.7458
+🎯 Take Profit: 0.7625
+🛑 Stop Loss: 0.7403
+Expected Profit: 2.24%
+---
+[2025-05-16 17:49:11] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3563
+ATR: 0.0291
+✅ Buy Price: 2.3417
+🎯 Take Profit: 2.3854
+🛑 Stop Loss: 2.3272
+Expected Profit: 1.87%
+---
+[2025-05-16 17:49:17] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2193
+ATR: 0.0039
+✅ Buy Price: 0.2173
+🎯 Take Profit: 0.2232
+🛑 Stop Loss: 0.2154
+Expected Profit: 2.71%
+---
+[2025-05-16 17:49:19] ⚡ XLM/USDT [1h] ALERT
+Current Price: 0.2901
+ATR: 0.0039
+✅ Buy Price: 0.2882
+🎯 Take Profit: 0.2940
+🛑 Stop Loss: 0.2862
+Expected Profit: 2.03%
+---
+[2025-05-16 17:49:22] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1521
+ATR: 0.0020
+✅ Buy Price: 0.1511
+🎯 Take Profit: 0.1541
+🛑 Stop Loss: 0.1501
+Expected Profit: 1.99%
+---
+[2025-05-16 17:49:24] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2701
+ATR: 0.0016
+✅ Buy Price: 0.2693
+🎯 Take Profit: 0.2717
+🛑 Stop Loss: 0.2685
+Expected Profit: 0.92%
+---
+[2025-05-16 17:49:26] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.5300
+ATR: 0.2467
+✅ Buy Price: 18.4066
+🎯 Take Profit: 18.7767
+🛑 Stop Loss: 18.2833
+Expected Profit: 2.01%
+---
+[2025-05-16 17:49:28] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1067
+ATR: 0.0016
+✅ Buy Price: 0.1059
+🎯 Take Profit: 0.1083
+🛑 Stop Loss: 0.1051
+Expected Profit: 2.26%
+---
+[2025-05-16 17:49:30] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0280
+🎯 Take Profit: 0.0287
+🛑 Stop Loss: 0.0278
+Expected Profit: 2.42%
+---
+[2025-05-16 17:49:35] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5700
+ATR: 0.2300
+✅ Buy Price: 15.4550
+🎯 Take Profit: 15.8000
+🛑 Stop Loss: 15.3400
+Expected Profit: 2.23%
+---
+[2025-05-16 17:49:39] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.68%
+---
+[2025-05-16 17:49:41] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0130
+ATR: 0.0002
+✅ Buy Price: 0.0129
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0128
+Expected Profit: 2.30%
+---
+[2025-05-16 17:49:43] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2696
+ATR: 0.0042
+✅ Buy Price: 0.2675
+🎯 Take Profit: 0.2738
+🛑 Stop Loss: 0.2654
+Expected Profit: 2.34%
+---
+[2025-05-16 17:49:45] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7530
+ATR: 0.0144
+✅ Buy Price: 0.7458
+🎯 Take Profit: 0.7674
+🛑 Stop Loss: 0.7386
+Expected Profit: 2.89%
+---
+[2025-05-16 17:49:48] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1487
+ATR: 0.0019
+✅ Buy Price: 0.1477
+🎯 Take Profit: 0.1506
+🛑 Stop Loss: 0.1468
+Expected Profit: 1.97%
+---
+[2025-05-16 17:49:50] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2400
+ATR: 0.5211
+✅ Buy Price: 39.9795
+🎯 Take Profit: 40.7611
+🛑 Stop Loss: 39.7189
+Expected Profit: 1.96%
+---
+[2025-05-16 17:49:52] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.17%
+---
+[2025-05-16 17:49:54] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0101
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0100
+Expected Profit: 2.84%
+---
+[2025-05-16 17:49:56] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.2500
+ATR: 0.2807
+✅ Buy Price: 23.1096
+🎯 Take Profit: 23.5307
+🛑 Stop Loss: 22.9693
+Expected Profit: 1.82%
+---
+[2025-05-16 17:49:58] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8710
+ATR: 0.0157
+✅ Buy Price: 0.8632
+🎯 Take Profit: 0.8867
+🛑 Stop Loss: 0.8553
+Expected Profit: 2.72%
+---
+[2025-05-16 17:50:03] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7460
+ATR: 0.0643
+✅ Buy Price: 4.7138
+🎯 Take Profit: 4.8103
+🛑 Stop Loss: 4.6817
+Expected Profit: 2.05%
+---
+[2025-05-16 17:50:07] ⚡ ONE/USDT [1h] ALERT
+Current Price: 0.0141
+ATR: 0.0003
+✅ Buy Price: 0.0140
+🎯 Take Profit: 0.0144
+🛑 Stop Loss: 0.0138
+Expected Profit: 2.87%
+---
+[2025-05-16 17:50:09] ⚡ ALGO/USDT [1h] ALERT
+Current Price: 0.2198
+ATR: 0.0035
+✅ Buy Price: 0.2180
+🎯 Take Profit: 0.2233
+🛑 Stop Loss: 0.2163
+Expected Profit: 2.41%
+---
+[2025-05-16 17:50:11] ⚡ DOGE/USDT [1h] ALERT
+Current Price: 0.2191
+ATR: 0.0039
+✅ Buy Price: 0.2171
+🎯 Take Profit: 0.2229
+🛑 Stop Loss: 0.2152
+Expected Profit: 2.67%
+---
+[2025-05-16 17:50:16] ⚡ ANKR/USDT [1h] ALERT
+Current Price: 0.0189
+ATR: 0.0003
+✅ Buy Price: 0.0188
+🎯 Take Profit: 0.0192
+🛑 Stop Loss: 0.0186
+Expected Profit: 2.10%
+---
+[2025-05-16 17:50:20] ⚡ COS/USDT [1h] ALERT
+Current Price: 0.0037
+ATR: 0.0001
+✅ Buy Price: 0.0037
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 2.08%
+---
+[2025-05-16 17:50:22] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8210
+ATR: 0.0111
+✅ Buy Price: 0.8155
+🎯 Take Profit: 0.8321
+🛑 Stop Loss: 0.8099
+Expected Profit: 2.03%
+---
+[2025-05-16 17:50:26] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1236
+ATR: 0.0016
+✅ Buy Price: 0.1228
+🎯 Take Profit: 0.1252
+🛑 Stop Loss: 0.1220
+Expected Profit: 1.93%
+---
+[2025-05-16 17:50:31] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1281
+ATR: 0.0043
+✅ Buy Price: 0.1259
+🎯 Take Profit: 0.1324
+🛑 Stop Loss: 0.1238
+Expected Profit: 5.13%
+---
+[2025-05-16 17:50:33] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0437
+ATR: 0.0006
+✅ Buy Price: 0.0434
+🎯 Take Profit: 0.0443
+🛑 Stop Loss: 0.0431
+Expected Profit: 2.07%
+---
+[2025-05-16 17:50:35] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7920
+ATR: 0.0137
+✅ Buy Price: 0.7851
+🎯 Take Profit: 0.8057
+🛑 Stop Loss: 0.7783
+Expected Profit: 2.62%
+---
+[2025-05-16 17:50:37] ⚡ XTZ/USDT [1h] ALERT
+Current Price: 0.6254
+ATR: 0.0090
+✅ Buy Price: 0.6209
+🎯 Take Profit: 0.6344
+🛑 Stop Loss: 0.6164
+Expected Profit: 2.18%
+---
+[2025-05-16 17:50:39] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.32%
+---
+[2025-05-16 17:50:42] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1928
+ATR: 0.0027
+✅ Buy Price: 0.1915
+🎯 Take Profit: 0.1955
+🛑 Stop Loss: 0.1901
+Expected Profit: 2.09%
+---
+[2025-05-16 17:51:44] ⚡ BTC/USDT [1h] ALERT
+Current Price: 103275.4900
+ATR: 481.2676
+✅ Buy Price: 103034.8562
+🎯 Take Profit: 103756.7576
+🛑 Stop Loss: 102794.2224
+Expected Profit: 0.70%
+---
+[2025-05-16 17:51:46] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2505.9000
+ATR: 32.0038
+✅ Buy Price: 2489.8981
+🎯 Take Profit: 2537.9038
+🛑 Stop Loss: 2473.8962
+Expected Profit: 1.93%
+---
+[2025-05-16 17:51:48] ⚡ BNB/USDT [1h] ALERT
+Current Price: 642.0900
+ATR: 3.9080
+✅ Buy Price: 640.1360
+🎯 Take Profit: 645.9980
+🛑 Stop Loss: 638.1820
+Expected Profit: 0.92%
+---
+[2025-05-16 17:51:50] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5100
+ATR: 0.1018
+✅ Buy Price: 6.4591
+🎯 Take Profit: 6.6118
+🛑 Stop Loss: 6.4082
+Expected Profit: 2.36%
+---
+[2025-05-16 17:51:52] ⚡ LTC/USDT [1h] ALERT
+Current Price: 99.0300
+ATR: 1.1541
+✅ Buy Price: 98.4530
+🎯 Take Profit: 100.1841
+🛑 Stop Loss: 97.8759
+Expected Profit: 1.76%
+---
+[2025-05-16 17:51:54] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3330
+ATR: 0.0314
+✅ Buy Price: 2.3173
+🎯 Take Profit: 2.3644
+🛑 Stop Loss: 2.3016
+Expected Profit: 2.03%
+---
+[2025-05-16 17:51:57] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7515
+ATR: 0.0111
+✅ Buy Price: 0.7459
+🎯 Take Profit: 0.7626
+🛑 Stop Loss: 0.7404
+Expected Profit: 2.24%
+---
+[2025-05-16 17:51:59] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3582
+ATR: 0.0291
+✅ Buy Price: 2.3436
+🎯 Take Profit: 2.3873
+🛑 Stop Loss: 2.3291
+Expected Profit: 1.86%
+---
+[2025-05-16 17:52:05] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2195
+ATR: 0.0039
+✅ Buy Price: 0.2175
+🎯 Take Profit: 0.2234
+🛑 Stop Loss: 0.2156
+Expected Profit: 2.70%
+---
+[2025-05-16 17:52:07] ⚡ XLM/USDT [1h] ALERT
+Current Price: 0.2901
+ATR: 0.0039
+✅ Buy Price: 0.2882
+🎯 Take Profit: 0.2940
+🛑 Stop Loss: 0.2862
+Expected Profit: 2.03%
+---
+[2025-05-16 17:52:10] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1523
+ATR: 0.0020
+✅ Buy Price: 0.1513
+🎯 Take Profit: 0.1543
+🛑 Stop Loss: 0.1503
+Expected Profit: 1.99%
+---
+[2025-05-16 17:52:12] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2703
+ATR: 0.0016
+✅ Buy Price: 0.2695
+🎯 Take Profit: 0.2719
+🛑 Stop Loss: 0.2687
+Expected Profit: 0.91%
+---
+[2025-05-16 17:52:14] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.5000
+ATR: 0.2467
+✅ Buy Price: 18.3766
+🎯 Take Profit: 18.7467
+🛑 Stop Loss: 18.2533
+Expected Profit: 2.01%
+---
+[2025-05-16 17:52:16] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1066
+ATR: 0.0016
+✅ Buy Price: 0.1058
+🎯 Take Profit: 0.1082
+🛑 Stop Loss: 0.1050
+Expected Profit: 2.26%
+---
+[2025-05-16 17:52:18] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0280
+🎯 Take Profit: 0.0286
+🛑 Stop Loss: 0.0277
+Expected Profit: 2.42%
+---
+[2025-05-16 17:52:23] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5600
+ATR: 0.2300
+✅ Buy Price: 15.4450
+🎯 Take Profit: 15.7900
+🛑 Stop Loss: 15.3300
+Expected Profit: 2.23%
+---
+[2025-05-16 17:52:27] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.68%
+---
+[2025-05-16 17:52:29] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0130
+ATR: 0.0002
+✅ Buy Price: 0.0129
+🎯 Take Profit: 0.0132
+🛑 Stop Loss: 0.0128
+Expected Profit: 2.31%
+---
+[2025-05-16 17:52:31] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2692
+ATR: 0.0042
+✅ Buy Price: 0.2671
+🎯 Take Profit: 0.2734
+🛑 Stop Loss: 0.2650
+Expected Profit: 2.34%
+---
+[2025-05-16 17:52:34] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7510
+ATR: 0.0144
+✅ Buy Price: 0.7438
+🎯 Take Profit: 0.7654
+🛑 Stop Loss: 0.7366
+Expected Profit: 2.90%
+---
+[2025-05-16 17:52:36] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1487
+ATR: 0.0019
+✅ Buy Price: 0.1477
+🎯 Take Profit: 0.1506
+🛑 Stop Loss: 0.1468
+Expected Profit: 1.97%
+---
+[2025-05-16 17:52:38] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2700
+ATR: 0.5211
+✅ Buy Price: 40.0095
+🎯 Take Profit: 40.7911
+🛑 Stop Loss: 39.7489
+Expected Profit: 1.95%
+---
+[2025-05-16 17:52:40] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.17%
+---
+[2025-05-16 17:52:41] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0101
+ATR: 0.0001
+✅ Buy Price: 0.0101
+🎯 Take Profit: 0.0102
+🛑 Stop Loss: 0.0100
+Expected Profit: 1.37%
+---
+[2025-05-16 17:52:42] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0099
+Expected Profit: 2.85%
+---
+[2025-05-16 17:52:44] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.2600
+ATR: 0.2807
+✅ Buy Price: 23.1196
+🎯 Take Profit: 23.5407
+🛑 Stop Loss: 22.9793
+Expected Profit: 1.82%
+---
+[2025-05-16 17:52:47] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8720
+ATR: 0.0157
+✅ Buy Price: 0.8642
+🎯 Take Profit: 0.8877
+🛑 Stop Loss: 0.8563
+Expected Profit: 2.72%
+---
+[2025-05-16 17:52:51] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7460
+ATR: 0.0643
+✅ Buy Price: 4.7138
+🎯 Take Profit: 4.8103
+🛑 Stop Loss: 4.6817
+Expected Profit: 2.05%
+---
+[2025-05-16 17:52:55] ⚡ ONE/USDT [1h] ALERT
+Current Price: 0.0141
+ATR: 0.0003
+✅ Buy Price: 0.0140
+🎯 Take Profit: 0.0144
+🛑 Stop Loss: 0.0139
+Expected Profit: 2.87%
+---
+[2025-05-16 17:52:57] ⚡ ALGO/USDT [1h] ALERT
+Current Price: 0.2202
+ATR: 0.0035
+✅ Buy Price: 0.2184
+🎯 Take Profit: 0.2237
+🛑 Stop Loss: 0.2167
+Expected Profit: 2.40%
+---
+[2025-05-16 17:52:59] ⚡ DOGE/USDT [1h] ALERT
+Current Price: 0.2192
+ATR: 0.0039
+✅ Buy Price: 0.2173
+🎯 Take Profit: 0.2231
+🛑 Stop Loss: 0.2154
+Expected Profit: 2.66%
+---
+[2025-05-16 17:53:04] ⚡ ANKR/USDT [1h] ALERT
+Current Price: 0.0189
+ATR: 0.0003
+✅ Buy Price: 0.0188
+🎯 Take Profit: 0.0192
+🛑 Stop Loss: 0.0187
+Expected Profit: 2.09%
+---
+[2025-05-16 17:53:08] ⚡ COS/USDT [1h] ALERT
+Current Price: 0.0037
+ATR: 0.0001
+✅ Buy Price: 0.0037
+🎯 Take Profit: 0.0038
+🛑 Stop Loss: 0.0037
+Expected Profit: 2.08%
+---
+[2025-05-16 17:53:10] ⚡ MTL/USDT [1h] ALERT
+Current Price: 0.8220
+ATR: 0.0111
+✅ Buy Price: 0.8165
+🎯 Take Profit: 0.8331
+🛑 Stop Loss: 0.8109
+Expected Profit: 2.03%
+---
+[2025-05-16 17:53:15] ⚡ WAN/USDT [1h] ALERT
+Current Price: 0.1237
+ATR: 0.0016
+✅ Buy Price: 0.1229
+🎯 Take Profit: 0.1253
+🛑 Stop Loss: 0.1221
+Expected Profit: 1.93%
+---
+[2025-05-16 17:53:19] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1273
+ATR: 0.0043
+✅ Buy Price: 0.1251
+🎯 Take Profit: 0.1316
+🛑 Stop Loss: 0.1230
+Expected Profit: 5.16%
+---
+[2025-05-16 17:53:21] ⚡ CHZ/USDT [1h] ALERT
+Current Price: 0.0438
+ATR: 0.0006
+✅ Buy Price: 0.0435
+🎯 Take Profit: 0.0444
+🛑 Stop Loss: 0.0432
+Expected Profit: 2.06%
+---
+[2025-05-16 17:53:23] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7930
+ATR: 0.0137
+✅ Buy Price: 0.7861
+🎯 Take Profit: 0.8067
+🛑 Stop Loss: 0.7793
+Expected Profit: 2.62%
+---
+[2025-05-16 17:53:25] ⚡ XTZ/USDT [1h] ALERT
+Current Price: 0.6277
+ATR: 0.0090
+✅ Buy Price: 0.6232
+🎯 Take Profit: 0.6367
+🛑 Stop Loss: 0.6187
+Expected Profit: 2.17%
+---
+[2025-05-16 17:53:28] ⚡ RVN/USDT [1h] ALERT
+Current Price: 0.0124
+ATR: 0.0002
+✅ Buy Price: 0.0123
+🎯 Take Profit: 0.0126
+🛑 Stop Loss: 0.0122
+Expected Profit: 2.32%
+---
+[2025-05-16 17:53:30] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1935
+ATR: 0.0027
+✅ Buy Price: 0.1921
+🎯 Take Profit: 0.1961
+🛑 Stop Loss: 0.1908
+Expected Profit: 2.08%
+---
+[2025-05-16 17:54:32] ⚡ BTC/USDT [1h] ALERT
+Current Price: 103380.9500
+ATR: 481.2676
+✅ Buy Price: 103140.3162
+🎯 Take Profit: 103862.2176
+🛑 Stop Loss: 102899.6824
+Expected Profit: 0.70%
+---
+[2025-05-16 17:54:34] ⚡ ETH/USDT [1h] ALERT
+Current Price: 2508.7000
+ATR: 32.0038
+✅ Buy Price: 2492.6981
+🎯 Take Profit: 2540.7038
+🛑 Stop Loss: 2476.6962
+Expected Profit: 1.93%
+---
+[2025-05-16 17:54:36] ⚡ BNB/USDT [1h] ALERT
+Current Price: 643.1400
+ATR: 3.9080
+✅ Buy Price: 641.1860
+🎯 Take Profit: 647.0480
+🛑 Stop Loss: 639.2320
+Expected Profit: 0.91%
+---
+[2025-05-16 17:54:38] ⚡ NEO/USDT [1h] ALERT
+Current Price: 6.5300
+ATR: 0.1018
+✅ Buy Price: 6.4791
+🎯 Take Profit: 6.6318
+🛑 Stop Loss: 6.4282
+Expected Profit: 2.36%
+---
+[2025-05-16 17:54:41] ⚡ LTC/USDT [1h] ALERT
+Current Price: 99.2200
+ATR: 1.1541
+✅ Buy Price: 98.6430
+🎯 Take Profit: 100.3741
+🛑 Stop Loss: 98.0659
+Expected Profit: 1.75%
+---
+[2025-05-16 17:54:43] ⚡ QTUM/USDT [1h] ALERT
+Current Price: 2.3420
+ATR: 0.0314
+✅ Buy Price: 2.3263
+🎯 Take Profit: 2.3734
+🛑 Stop Loss: 2.3106
+Expected Profit: 2.02%
+---
+[2025-05-16 17:54:45] ⚡ ADA/USDT [1h] ALERT
+Current Price: 0.7525
+ATR: 0.0111
+✅ Buy Price: 0.7469
+🎯 Take Profit: 0.7636
+🛑 Stop Loss: 0.7414
+Expected Profit: 2.23%
+---
+[2025-05-16 17:54:47] ⚡ XRP/USDT [1h] ALERT
+Current Price: 2.3605
+ATR: 0.0291
+✅ Buy Price: 2.3459
+🎯 Take Profit: 2.3896
+🛑 Stop Loss: 2.3314
+Expected Profit: 1.86%
+---
+[2025-05-16 17:54:54] ⚡ IOTA/USDT [1h] ALERT
+Current Price: 0.2201
+ATR: 0.0039
+✅ Buy Price: 0.2181
+🎯 Take Profit: 0.2240
+🛑 Stop Loss: 0.2162
+Expected Profit: 2.70%
+---
+[2025-05-16 17:54:56] ⚡ XLM/USDT [1h] ALERT
+Current Price: 0.2907
+ATR: 0.0039
+✅ Buy Price: 0.2888
+🎯 Take Profit: 0.2946
+🛑 Stop Loss: 0.2868
+Expected Profit: 2.03%
+---
+[2025-05-16 17:54:58] ⚡ ONT/USDT [1h] ALERT
+Current Price: 0.1528
+ATR: 0.0020
+✅ Buy Price: 0.1518
+🎯 Take Profit: 0.1548
+🛑 Stop Loss: 0.1508
+Expected Profit: 1.98%
+---
+[2025-05-16 17:55:00] ⚡ TRX/USDT [1h] ALERT
+Current Price: 0.2704
+ATR: 0.0016
+✅ Buy Price: 0.2696
+🎯 Take Profit: 0.2720
+🛑 Stop Loss: 0.2688
+Expected Profit: 0.91%
+---
+[2025-05-16 17:55:02] ⚡ ETC/USDT [1h] ALERT
+Current Price: 18.5400
+ATR: 0.2467
+✅ Buy Price: 18.4166
+🎯 Take Profit: 18.7867
+🛑 Stop Loss: 18.2933
+Expected Profit: 2.01%
+---
+[2025-05-16 17:55:05] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1068
+ATR: 0.0016
+✅ Buy Price: 0.1060
+🎯 Take Profit: 0.1084
+🛑 Stop Loss: 0.1052
+Expected Profit: 2.26%
+---
+[2025-05-16 17:55:07] ⚡ VET/USDT [1h] ALERT
+Current Price: 0.0282
+ATR: 0.0005
+✅ Buy Price: 0.0280
+🎯 Take Profit: 0.0287
+🛑 Stop Loss: 0.0278
+Expected Profit: 2.41%
+---
+[2025-05-16 17:55:11] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.5900
+ATR: 0.2300
+✅ Buy Price: 15.4750
+🎯 Take Profit: 15.8200
+🛑 Stop Loss: 15.3600
+Expected Profit: 2.23%
+---
+[2025-05-16 17:55:15] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.67%
+---
+[2025-05-16 17:55:17] ⚡ ZIL/USDT [1h] ALERT
+Current Price: 0.0131
+ATR: 0.0002
+✅ Buy Price: 0.0130
+🎯 Take Profit: 0.0133
+🛑 Stop Loss: 0.0129
+Expected Profit: 2.30%
+---
+[2025-05-16 17:55:20] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2697
+ATR: 0.0042
+✅ Buy Price: 0.2676
+🎯 Take Profit: 0.2739
+🛑 Stop Loss: 0.2655
+Expected Profit: 2.34%
+---
+[2025-05-16 17:55:22] ⚡ FET/USDT [1h] ALERT
+Current Price: 0.7540
+ATR: 0.0144
+✅ Buy Price: 0.7468
+🎯 Take Profit: 0.7684
+🛑 Stop Loss: 0.7396
+Expected Profit: 2.89%
+---
+[2025-05-16 17:55:24] ⚡ BAT/USDT [1h] ALERT
+Current Price: 0.1490
+ATR: 0.0019
+✅ Buy Price: 0.1480
+🎯 Take Profit: 0.1509
+🛑 Stop Loss: 0.1471
+Expected Profit: 1.97%
+---
+[2025-05-16 17:55:26] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.2600
+ATR: 0.5211
+✅ Buy Price: 39.9995
+🎯 Take Profit: 40.7811
+🛑 Stop Loss: 39.7389
+Expected Profit: 1.95%
+---
+[2025-05-16 17:55:28] ⚡ IOST/USDT [1h] ALERT
+Current Price: 0.0039
+ATR: 0.0001
+✅ Buy Price: 0.0038
+🎯 Take Profit: 0.0039
+🛑 Stop Loss: 0.0038
+Expected Profit: 2.16%
+---
+[2025-05-16 17:55:30] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0101
+ATR: 0.0001
+✅ Buy Price: 0.0101
+🎯 Take Profit: 0.0102
+🛑 Stop Loss: 0.0100
+Expected Profit: 1.37%
+---
+[2025-05-16 17:55:30] ⚡ CELR/USDT [1h] ALERT
+Current Price: 0.0101
+ATR: 0.0002
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0103
+🛑 Stop Loss: 0.0099
+Expected Profit: 2.85%
+---
+[2025-05-16 17:55:33] ⚡ DASH/USDT [1h] ALERT
+Current Price: 23.3200
+ATR: 0.2807
+✅ Buy Price: 23.1796
+🎯 Take Profit: 23.6007
+🛑 Stop Loss: 23.0393
+Expected Profit: 1.82%
+---
+[2025-05-16 17:55:35] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.8720
+ATR: 0.0157
+✅ Buy Price: 0.8642
+🎯 Take Profit: 0.8877
+🛑 Stop Loss: 0.8563
+Expected Profit: 2.72%
+---
+[2025-05-16 17:55:39] ⚡ ATOM/USDT [1h] ALERT
+Current Price: 4.7490
+ATR: 0.0643
+✅ Buy Price: 4.7168
+🎯 Take Profit: 4.8133
+🛑 Stop Loss: 4.6847
+Expected Profit: 2.05%
+---
+[2025-05-16 17:55:50] ⚡ BTC/USDT [1h] ALERT
+Price: 103329.1700
+ATR: 481.2676
+✅ Buy: 103088.5362
+🎯 TP: 103810.4376
+🛑 SL: 102847.9024
+Profit: 0.70%
+---
+[2025-05-16 17:55:52] ⚡ ETH/USDT [1h] ALERT
+Price: 2505.3000
+ATR: 32.0038
+✅ Buy: 2489.2981
+🎯 TP: 2537.3038
+🛑 SL: 2473.2962
+Profit: 1.93%
+---
+[2025-05-16 17:55:54] ⚡ BNB/USDT [1h] ALERT
+Price: 642.7900
+ATR: 3.9080
+✅ Buy: 640.8360
+🎯 TP: 646.6980
+🛑 SL: 638.8820
+Profit: 0.91%
+---
+[2025-05-16 17:55:57] ⚡ NEO/USDT [1h] ALERT
+Price: 6.5300
+ATR: 0.1018
+✅ Buy: 6.4791
+🎯 TP: 6.6318
+🛑 SL: 6.4282
+Profit: 2.36%
+---
+[2025-05-16 17:55:59] ⚡ LTC/USDT [1h] ALERT
+Price: 99.1500
+ATR: 1.1541
+✅ Buy: 98.5730
+🎯 TP: 100.3041
+🛑 SL: 97.9959
+Profit: 1.76%
+---
+[2025-05-16 17:56:01] ⚡ QTUM/USDT [1h] ALERT
+Price: 2.3380
+ATR: 0.0314
+✅ Buy: 2.3223
+🎯 TP: 2.3694
+🛑 SL: 2.3066
+Profit: 2.03%
+---
+[2025-05-16 17:56:03] ⚡ ADA/USDT [1h] ALERT
+Price: 0.7519
+ATR: 0.0111
+✅ Buy: 0.7463
+🎯 TP: 0.7630
+🛑 SL: 0.7408
+Profit: 2.23%
+---
+[2025-05-16 17:56:05] ⚡ XRP/USDT [1h] ALERT
+Price: 2.3584
+ATR: 0.0291
+✅ Buy: 2.3438
+🎯 TP: 2.3875
+🛑 SL: 2.3293
+Profit: 1.86%
+---
+[2025-05-16 17:56:12] ⚡ IOTA/USDT [1h] ALERT
+Price: 0.2197
+ATR: 0.0039
+✅ Buy: 0.2177
+🎯 TP: 0.2236
+🛑 SL: 0.2158
+Profit: 2.70%
+---
+[2025-05-16 17:56:14] ⚡ XLM/USDT [1h] ALERT
+Price: 0.2904
+ATR: 0.0039
+✅ Buy: 0.2885
+🎯 TP: 0.2943
+🛑 SL: 0.2865
+Profit: 2.03%
+---
+[2025-05-16 17:56:16] ⚡ ONT/USDT [1h] ALERT
+Price: 0.1528
+ATR: 0.0020
+✅ Buy: 0.1518
+🎯 TP: 0.1548
+🛑 SL: 0.1508
+Profit: 1.98%
+---
+[2025-05-16 17:56:19] ⚡ TRX/USDT [1h] ALERT
+Price: 0.2704
+ATR: 0.0016
+✅ Buy: 0.2696
+🎯 TP: 0.2720
+🛑 SL: 0.2688
+Profit: 0.91%
+---
+[2025-05-16 17:56:21] ⚡ ETC/USDT [1h] ALERT
+Price: 18.5300
+ATR: 0.2467
+✅ Buy: 18.4066
+🎯 TP: 18.7767
+🛑 SL: 18.2833
+Profit: 2.01%
+---
+[2025-05-16 17:56:23] ⚡ ICX/USDT [1h] ALERT
+Price: 0.1067
+ATR: 0.0016
+✅ Buy: 0.1059
+🎯 TP: 0.1083
+🛑 SL: 0.1051
+Profit: 2.26%
+---
+[2025-05-16 17:56:25] ⚡ VET/USDT [1h] ALERT
+Price: 0.0282
+ATR: 0.0005
+✅ Buy: 0.0280
+🎯 TP: 0.0287
+🛑 SL: 0.0277
+Profit: 2.42%
+---
+[2025-05-16 17:56:30] ⚡ LINK/USDT [1h] ALERT
+Price: 15.5600
+ATR: 0.2300
+✅ Buy: 15.4450
+🎯 TP: 15.7900
+🛑 SL: 15.3300
+Profit: 2.23%
+---
+[2025-05-16 17:56:34] ⚡ HOT/USDT [1h] ALERT
+Price: 0.0011
+ATR: 0.0000
+✅ Buy: 0.0011
+🎯 TP: 0.0012
+🛑 SL: 0.0011
+Profit: 2.67%
+---
+[2025-05-16 17:56:36] ⚡ ZIL/USDT [1h] ALERT
+Price: 0.0131
+ATR: 0.0002
+✅ Buy: 0.0130
+🎯 TP: 0.0133
+🛑 SL: 0.0129
+Profit: 2.30%
+---
+[2025-05-16 17:56:38] ⚡ ZRX/USDT [1h] ALERT
+Price: 0.2694
+ATR: 0.0042
+✅ Buy: 0.2673
+🎯 TP: 0.2736
+🛑 SL: 0.2652
+Profit: 2.34%
+---
+[2025-05-16 17:56:40] ⚡ FET/USDT [1h] ALERT
+Price: 0.7530
+ATR: 0.0144
+✅ Buy: 0.7458
+🎯 TP: 0.7674
+🛑 SL: 0.7386
+Profit: 2.89%
+---
+[2025-05-16 17:56:42] ⚡ BAT/USDT [1h] ALERT
+Price: 0.1489
+ATR: 0.0019
+✅ Buy: 0.1479
+🎯 TP: 0.1508
+🛑 SL: 0.1470
+Profit: 1.97%
+---
+[2025-05-16 17:56:45] ⚡ ZEC/USDT [1h] ALERT
+Price: 40.2400
+ATR: 0.5211
+✅ Buy: 39.9795
+🎯 TP: 40.7611
+🛑 SL: 39.7189
+Profit: 1.96%
+---
+[2025-05-16 17:56:47] ⚡ IOST/USDT [1h] ALERT
+Price: 0.0039
+ATR: 0.0001
+✅ Buy: 0.0038
+🎯 TP: 0.0039
+🛑 SL: 0.0038
+Profit: 2.17%
+---
+[2025-05-16 17:56:48] ⚡ CELR/USDT [15m] ALERT
+Price: 0.0101
+ATR: 0.0001
+✅ Buy: 0.0101
+🎯 TP: 0.0102
+🛑 SL: 0.0100
+Profit: 1.37%
+---
+[2025-05-16 17:56:49] ⚡ CELR/USDT [1h] ALERT
+Price: 0.0101
+ATR: 0.0002
+✅ Buy: 0.0100
+🎯 TP: 0.0103
+🛑 SL: 0.0099
+Profit: 2.85%
+---
+[2025-05-16 17:56:51] ⚡ DASH/USDT [1h] ALERT
+Price: 23.2900
+ATR: 0.2807
+✅ Buy: 23.1496
+🎯 TP: 23.5707
+🛑 SL: 23.0093
+Profit: 1.82%
+---
+[2025-05-16 17:56:53] ⚡ THETA/USDT [1h] ALERT
+Price: 0.8710
+ATR: 0.0157
+✅ Buy: 0.8632
+🎯 TP: 0.8867
+🛑 SL: 0.8553
+Profit: 2.72%
+---
+[2025-05-16 17:56:58] ⚡ ATOM/USDT [1h] ALERT
+Price: 4.7400
+ATR: 0.0643
+✅ Buy: 4.7078
+🎯 TP: 4.8043
+🛑 SL: 4.6757
+Profit: 2.05%
+---
+[2025-05-16 17:57:02] ⚡ ONE/USDT [1h] ALERT
+Price: 0.0141
+ATR: 0.0003
+✅ Buy: 0.0140
+🎯 TP: 0.0144
+🛑 SL: 0.0139
+Profit: 2.87%
+---
+[2025-05-16 17:57:04] ⚡ ALGO/USDT [1h] ALERT
+Price: 0.2205
+ATR: 0.0035
+✅ Buy: 0.2187
+🎯 TP: 0.2240
+🛑 SL: 0.2170
+Profit: 2.40%
+---
+[2025-05-16 17:57:07] ⚡ DOGE/USDT [1h] ALERT
+Price: 0.2189
+ATR: 0.0039
+✅ Buy: 0.2170
+🎯 TP: 0.2227
+🛑 SL: 0.2150
+Profit: 2.67%
+---
+[2025-05-16 17:57:11] ⚡ ANKR/USDT [1h] ALERT
+Price: 0.0189
+ATR: 0.0003
+✅ Buy: 0.0188
+🎯 TP: 0.0192
+🛑 SL: 0.0187
+Profit: 2.10%
+---
+[2025-05-16 17:57:15] ⚡ COS/USDT [1h] ALERT
+Price: 0.0037
+ATR: 0.0001
+✅ Buy: 0.0037
+🎯 TP: 0.0038
+🛑 SL: 0.0037
+Profit: 2.08%
+---
+[2025-05-16 17:57:17] ⚡ MTL/USDT [1h] ALERT
+Price: 0.8230
+ATR: 0.0111
+✅ Buy: 0.8175
+🎯 TP: 0.8341
+🛑 SL: 0.8119
+Profit: 2.03%
+---
+[2025-05-16 17:57:22] ⚡ WAN/USDT [1h] ALERT
+Price: 0.1240
+ATR: 0.0016
+✅ Buy: 0.1232
+🎯 TP: 0.1256
+🛑 SL: 0.1224
+Profit: 1.92%
+---
+[2025-05-16 17:57:26] ⚡ CVC/USDT [1h] ALERT
+Price: 0.1256
+ATR: 0.0045
+✅ Buy: 0.1234
+🎯 TP: 0.1301
+🛑 SL: 0.1211
+Profit: 5.46%
+---
+[2025-05-16 17:57:28] ⚡ CHZ/USDT [1h] ALERT
+Price: 0.0437
+ATR: 0.0006
+✅ Buy: 0.0434
+🎯 TP: 0.0443
+🛑 SL: 0.0431
+Profit: 2.06%
+---
+[2025-05-16 17:57:30] ⚡ BAND/USDT [1h] ALERT
+Price: 0.7930
+ATR: 0.0137
+✅ Buy: 0.7861
+🎯 TP: 0.8067
+🛑 SL: 0.7793
+Profit: 2.62%
+---
+[2025-05-16 17:57:33] ⚡ XTZ/USDT [1h] ALERT
+Price: 0.6276
+ATR: 0.0090
+✅ Buy: 0.6231
+🎯 TP: 0.6366
+🛑 SL: 0.6186
+Profit: 2.18%
+---
+[2025-05-16 17:57:35] ⚡ RVN/USDT [1h] ALERT
+Price: 0.0124
+ATR: 0.0002
+✅ Buy: 0.0123
+🎯 TP: 0.0126
+🛑 SL: 0.0122
+Profit: 2.33%
+---
+[2025-05-16 17:57:37] ⚡ HBAR/USDT [1h] ALERT
+Price: 0.1934
+ATR: 0.0027
+✅ Buy: 0.1921
+🎯 TP: 0.1961
+🛑 SL: 0.1908
+Profit: 2.08%
+---
+[2025-05-16 17:58:39] ⚡ BTC/USDT [1h] ALERT
+Price: 103399.6700
+ATR: 481.2676
+✅ Buy: 103159.0362
+🎯 TP: 103880.9376
+🛑 SL: 102918.4024
+Profit: 0.70%
+---
+[2025-05-16 17:58:41] ⚡ ETH/USDT [1h] ALERT
+Price: 2500.9600
+ATR: 32.0038
+✅ Buy: 2484.9581
+🎯 TP: 2532.9638
+🛑 SL: 2468.9562
+Profit: 1.93%
+---
+[2025-05-16 17:58:43] ⚡ BNB/USDT [1h] ALERT
+Price: 642.8500
+ATR: 3.9080
+✅ Buy: 640.8960
+🎯 TP: 646.7580
+🛑 SL: 638.9420
+Profit: 0.91%
+---
+[2025-05-16 17:58:46] ⚡ NEO/USDT [1h] ALERT
+Price: 6.5200
+ATR: 0.1018
+✅ Buy: 6.4691
+🎯 TP: 6.6218
+🛑 SL: 6.4182
+Profit: 2.36%
+---
+[2025-05-16 17:58:48] ⚡ LTC/USDT [1h] ALERT
+Price: 99.1100
+ATR: 1.1541
+✅ Buy: 98.5330
+🎯 TP: 100.2641
+🛑 SL: 97.9559
+Profit: 1.76%
+---
+[2025-05-16 17:58:50] ⚡ QTUM/USDT [1h] ALERT
+Price: 2.3380
+ATR: 0.0314
+✅ Buy: 2.3223
+🎯 TP: 2.3694
+🛑 SL: 2.3066
+Profit: 2.03%
+---
+[2025-05-16 17:58:52] ⚡ ADA/USDT [1h] ALERT
+Price: 0.7521
+ATR: 0.0111
+✅ Buy: 0.7465
+🎯 TP: 0.7632
+🛑 SL: 0.7410
+Profit: 2.23%
+---
+[2025-05-16 17:58:54] ⚡ XRP/USDT [1h] ALERT
+Price: 2.3592
+ATR: 0.0291
+✅ Buy: 2.3446
+🎯 TP: 2.3883
+🛑 SL: 2.3301
+Profit: 1.86%
+---
+[2025-05-16 17:59:00] ⚡ IOTA/USDT [15m] ALERT
+Price: 0.2196
+ATR: 0.0018
+✅ Buy: 0.2187
+🎯 TP: 0.2214
+🛑 SL: 0.2178
+Profit: 1.27%
+---
+[2025-05-16 17:59:01] ⚡ IOTA/USDT [1h] ALERT
+Price: 0.2196
+ATR: 0.0039
+✅ Buy: 0.2176
+🎯 TP: 0.2235
+🛑 SL: 0.2157
+Profit: 2.70%
+---
+[2025-05-16 17:59:02] ⚡ XLM/USDT [15m] ALERT
+Price: 0.2905
+ATR: 0.0019
+✅ Buy: 0.2895
+🎯 TP: 0.2924
+🛑 SL: 0.2886
+Profit: 0.99%
+---
+[2025-05-16 17:59:03] ⚡ XLM/USDT [1h] ALERT
+Price: 0.2905
+ATR: 0.0039
+✅ Buy: 0.2886
+🎯 TP: 0.2944
+🛑 SL: 0.2866
+Profit: 2.03%
+---
+[2025-05-16 17:59:05] ⚡ ONT/USDT [1h] ALERT
+Price: 0.1525
+ATR: 0.0020
+✅ Buy: 0.1515
+🎯 TP: 0.1545
+🛑 SL: 0.1505
+Profit: 1.98%
+---
+[2025-05-16 17:59:07] ⚡ TRX/USDT [1h] ALERT
+Price: 0.2704
+ATR: 0.0016
+✅ Buy: 0.2696
+🎯 TP: 0.2720
+🛑 SL: 0.2688
+Profit: 0.91%
+---
+[2025-05-16 17:59:09] ⚡ ETC/USDT [1h] ALERT
+Price: 18.5100
+ATR: 0.2467
+✅ Buy: 18.3866
+🎯 TP: 18.7567
+🛑 SL: 18.2633
+Profit: 2.01%
+---
+[2025-05-16 17:59:11] ⚡ ICX/USDT [1h] ALERT
+Price: 0.1067
+ATR: 0.0016
+✅ Buy: 0.1059
+🎯 TP: 0.1083
+🛑 SL: 0.1051
+Profit: 2.26%
+---
+[2025-05-16 17:59:14] ⚡ VET/USDT [1h] ALERT
+Price: 0.0282
+ATR: 0.0005
+✅ Buy: 0.0280
+🎯 TP: 0.0287
+🛑 SL: 0.0278
+Profit: 2.41%
+---
+[2025-05-16 17:59:18] ⚡ LINK/USDT [1h] ALERT
+Price: 15.5700
+ATR: 0.2300
+✅ Buy: 15.4550
+🎯 TP: 15.8000
+🛑 SL: 15.3400
+Profit: 2.23%
+---
+[2025-05-16 17:59:22] ⚡ HOT/USDT [1h] ALERT
+Price: 0.0011
+ATR: 0.0000
+✅ Buy: 0.0011
+🎯 TP: 0.0012
+🛑 SL: 0.0011
+Profit: 2.67%
+---
+[2025-05-16 17:59:24] ⚡ ZIL/USDT [1h] ALERT
+Price: 0.0130
+ATR: 0.0002
+✅ Buy: 0.0129
+🎯 TP: 0.0132
+🛑 SL: 0.0128
+Profit: 2.30%
+---
+[2025-05-16 17:59:27] ⚡ ZRX/USDT [1h] ALERT
+Price: 0.2696
+ATR: 0.0042
+✅ Buy: 0.2675
+🎯 TP: 0.2738
+🛑 SL: 0.2654
+Profit: 2.34%
+---
+[2025-05-16 18:02:56] ⚡ MTL/USDT [4h] ALERT
+Price: 0.8230
+ATR: 0.0223
+✅ Buy: 0.8119
+🎯 TP: 0.8453
+🛑 SL: 0.8007
+Profit: 4.11%
+---
+[2025-05-16 18:08:13] ⚡ TFUEL/USDT [15m] ALERT
+Price: 0.0378
+ATR: 0.0002
+✅ Buy: 0.0377
+🎯 TP: 0.0380
+🛑 SL: 0.0376
+Profit: 0.85%
+---
+[2025-05-16 18:10:47] ⚡ ZEC/USDT [15m] ALERT
+Price: 40.1500
+ATR: 0.2011
+✅ Buy: 40.0494
+🎯 TP: 40.3511
+🛑 SL: 39.9489
+Profit: 0.75%
+---
+[2025-05-16 18:13:52] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.1000
+ATR: 0.4931
+✅ Buy Price: 39.8534
+🎯 Take Profit: 40.5931
+🛑 Stop Loss: 39.6069
+Expected Profit: 1.86%
+---
+[2025-05-16 18:13:56] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0101
+ATR: 0.0001
+✅ Buy Price: 0.0100
+🎯 Take Profit: 0.0102
+🛑 Stop Loss: 0.0100
+Expected Profit: 1.40%
+---
+[2025-05-16 18:14:15] ⚡ DUSK/USDT [15m] ALERT
+Current Price: 0.0860
+ATR: 0.0007
+✅ Buy Price: 0.0856
+🎯 Take Profit: 0.0867
+🛑 Stop Loss: 0.0853
+Expected Profit: 1.26%
+---
+[2025-05-16 18:16:41] ⚡ ZEC/USDT [1h] ALERT
+Current Price: 40.1900
+ATR: 0.4931
+✅ Buy Price: 39.9434
+🎯 Take Profit: 40.6831
+🛑 Stop Loss: 39.6969
+Expected Profit: 1.85%
+---
+[2025-05-16 18:17:26] ⚡ BAND/USDT [1h] ALERT
+Current Price: 0.7810
+ATR: 0.0136
+✅ Buy Price: 0.7742
+🎯 Take Profit: 0.7946
+🛑 Stop Loss: 0.7674
+Expected Profit: 2.64%
+---
+[2025-05-19 10:08:07] ⚡ ETH/USDT [15m] ALERT
+Current Price: 2536.6500
+ATR: 18.6730
+✅ Buy Price: 2527.3135
+🎯 Take Profit: 2555.3230
+🛑 Stop Loss: 2517.9770
+Expected Profit: 1.11%
+---
+[2025-05-19 10:08:11] ⚡ NEO/USDT [15m] ALERT
+Current Price: 6.5400
+ATR: 0.0508
+✅ Buy Price: 6.5146
+🎯 Take Profit: 6.5908
+🛑 Stop Loss: 6.4892
+Expected Profit: 1.17%
+---
+[2025-05-19 10:08:13] ⚡ LTC/USDT [15m] ALERT
+Current Price: 99.0900
+ATR: 0.6429
+✅ Buy Price: 98.7685
+🎯 Take Profit: 99.7329
+🛑 Stop Loss: 98.4471
+Expected Profit: 0.98%
+---
+[2025-05-19 10:08:22] ⚡ EOS/USDT [15m] ALERT
+Current Price: 0.7827
+ATR: 0.0052
+✅ Buy Price: 0.7801
+🎯 Take Profit: 0.7879
+🛑 Stop Loss: 0.7775
+Expected Profit: 0.99%
+---
+[2025-05-19 10:08:31] ⚡ ONT/USDT [15m] ALERT
+Current Price: 0.1521
+ATR: 0.0011
+✅ Buy Price: 0.1516
+🎯 Take Profit: 0.1532
+🛑 Stop Loss: 0.1510
+Expected Profit: 1.04%
+---
+[2025-05-19 10:08:37] ⚡ ICX/USDT [15m] ALERT
+Current Price: 0.1070
+ATR: 0.0009
+✅ Buy Price: 0.1066
+🎯 Take Profit: 0.1079
+🛑 Stop Loss: 0.1061
+Expected Profit: 1.21%
+---
+[2025-05-19 10:08:38] ⚡ ICX/USDT [1h] ALERT
+Current Price: 0.1070
+ATR: 0.0017
+✅ Buy Price: 0.1061
+🎯 Take Profit: 0.1087
+🛑 Stop Loss: 0.1053
+Expected Profit: 2.44%
+---
+[2025-05-19 10:08:39] ⚡ ICX/USDT [4h] ALERT
+Current Price: 0.1070
+ATR: 0.0037
+✅ Buy Price: 0.1052
+🎯 Take Profit: 0.1107
+🛑 Stop Loss: 0.1033
+Expected Profit: 5.27%
+---
+[2025-05-19 10:08:50] ⚡ ZIL/USDT [15m] ALERT
+Current Price: 0.0129
+ATR: 0.0001
+✅ Buy Price: 0.0128
+🎯 Take Profit: 0.0130
+🛑 Stop Loss: 0.0128
+Expected Profit: 1.10%
+---
+[2025-05-19 10:08:52] ⚡ ZRX/USDT [15m] ALERT
+Current Price: 0.2733
+ATR: 0.0020
+✅ Buy Price: 0.2723
+🎯 Take Profit: 0.2753
+🛑 Stop Loss: 0.2713
+Expected Profit: 1.12%
+---
+[2025-05-19 10:08:55] ⚡ FET/USDT [15m] ALERT
+Current Price: 0.7510
+ATR: 0.0074
+✅ Buy Price: 0.7473
+🎯 Take Profit: 0.7584
+🛑 Stop Loss: 0.7436
+Expected Profit: 1.48%
+---
+[2025-05-19 10:08:57] ⚡ BAT/USDT [15m] ALERT
+Current Price: 0.1496
+ATR: 0.0011
+✅ Buy Price: 0.1491
+🎯 Take Profit: 0.1507
+🛑 Stop Loss: 0.1485
+Expected Profit: 1.08%
+---
+[2025-05-19 10:08:59] ⚡ ZEC/USDT [15m] ALERT
+Current Price: 40.8700
+ATR: 0.2506
+✅ Buy Price: 40.7447
+🎯 Take Profit: 41.1206
+🛑 Stop Loss: 40.6194
+Expected Profit: 0.92%
+---
+[2025-05-19 10:09:03] ⚡ CELR/USDT [15m] ALERT
+Current Price: 0.0099
+ATR: 0.0001
+✅ Buy Price: 0.0099
+🎯 Take Profit: 0.0100
+🛑 Stop Loss: 0.0099
+Expected Profit: 1.35%
+---
+[2025-05-19 10:09:08] ⚡ THETA/USDT [15m] ALERT
+Current Price: 0.9190
+ATR: 0.0091
+✅ Buy Price: 0.9145
+🎯 Take Profit: 0.9281
+🛑 Stop Loss: 0.9099
+Expected Profit: 1.49%
+---
+[2025-05-19 10:09:12] ⚡ ATOM/USDT [15m] ALERT
+Current Price: 4.8550
+ATR: 0.0344
+✅ Buy Price: 4.8378
+🎯 Take Profit: 4.8894
+🛑 Stop Loss: 4.8206
+Expected Profit: 1.07%
+---
+[2025-05-19 10:09:19] ⚡ ALGO/USDT [15m] ALERT
+Current Price: 0.2239
+ATR: 0.0019
+✅ Buy Price: 0.2230
+🎯 Take Profit: 0.2258
+🛑 Stop Loss: 0.2220
+Expected Profit: 1.28%
+---
+[2025-05-19 10:09:21] ⚡ DOGE/USDT [15m] ALERT
+Current Price: 0.2261
+ATR: 0.0020
+✅ Buy Price: 0.2251
+🎯 Take Profit: 0.2281
+🛑 Stop Loss: 0.2241
+Expected Profit: 1.32%
+---
+[2025-05-19 10:09:25] ⚡ ANKR/USDT [15m] ALERT
+Current Price: 0.0187
+ATR: 0.0001
+✅ Buy Price: 0.0187
+🎯 Take Profit: 0.0189
+🛑 Stop Loss: 0.0186
+Expected Profit: 0.95%
+---
+[2025-05-19 10:09:28] ⚡ WIN/USDT [15m] ALERT
+Current Price: 0.0001
+ATR: 0.0000
+✅ Buy Price: 0.0001
+🎯 Take Profit: 0.0001
+🛑 Stop Loss: 0.0001
+Expected Profit: 0.72%
+---
+[2025-05-19 10:09:34] ⚡ MTL/USDT [15m] ALERT
+Current Price: 0.8170
+ATR: 0.0045
+✅ Buy Price: 0.8147
+🎯 Take Profit: 0.8215
+🛑 Stop Loss: 0.8125
+Expected Profit: 0.83%
+---
+[2025-05-19 10:09:39] ⚡ WAN/USDT [15m] ALERT
+Current Price: 0.1246
+ATR: 0.0009
+✅ Buy Price: 0.1241
+🎯 Take Profit: 0.1255
+🛑 Stop Loss: 0.1237
+Expected Profit: 1.09%
+---
+[2025-05-19 10:09:42] ⚡ FUN/USDT [4h] ALERT
+Current Price: 0.0050
+ATR: 0.0002
+✅ Buy Price: 0.0049
+🎯 Take Profit: 0.0053
+🛑 Stop Loss: 0.0048
+Expected Profit: 7.14%
+---
+[2025-05-19 10:09:45] ⚡ CVC/USDT [4h] ALERT
+Current Price: 0.1282
+ATR: 0.0062
+✅ Buy Price: 0.1251
+🎯 Take Profit: 0.1344
+🛑 Stop Loss: 0.1220
+Expected Profit: 7.49%
+---
+[2025-05-19 10:09:46] ⚡ CHZ/USDT [15m] ALERT
+Current Price: 0.0442
+ATR: 0.0003
+✅ Buy Price: 0.0440
+🎯 Take Profit: 0.0445
+🛑 Stop Loss: 0.0439
+Expected Profit: 1.12%
+---
+[2025-05-19 10:09:48] ⚡ BAND/USDT [15m] ALERT
+Current Price: 0.7830
+ATR: 0.0063
+✅ Buy Price: 0.7799
+🎯 Take Profit: 0.7893
+🛑 Stop Loss: 0.7767
+Expected Profit: 1.21%
+---
+[2025-05-19 10:09:50] ⚡ XTZ/USDT [15m] ALERT
+Current Price: 0.6211
+ATR: 0.0040
+✅ Buy Price: 0.6191
+🎯 Take Profit: 0.6251
+🛑 Stop Loss: 0.6171
+Expected Profit: 0.97%
+---
+[2025-05-19 10:09:55] ⚡ HBAR/USDT [15m] ALERT
+Current Price: 0.1935
+ATR: 0.0014
+✅ Buy Price: 0.1927
+🎯 Take Profit: 0.1949
+🛑 Stop Loss: 0.1920
+Expected Profit: 1.13%
+---
