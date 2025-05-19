@@ -4519,3 +4519,19 @@ ATR: 0.2498
 🛑 Stop Loss: 15.5202
 Expected Profit: 2.39%
 ---
+[2025-05-19 10:34:51] ⚡ ENJ/USDT [1h] ALERT
+Current Price: 0.0894
+ATR: 0.0017
+✅ Buy Price: 0.0885
+🎯 Take Profit: 0.0911
+🛑 Stop Loss: 0.0877
+Expected Profit: 2.95%
+---
+[2025-05-19 10:35:21] ⚡ CVC/USDT [1h] ALERT
+Current Price: 0.1278
+ATR: 0.0027
+✅ Buy Price: 0.1264
+🎯 Take Profit: 0.1305
+🛑 Stop Loss: 0.1251
+Expected Profit: 3.26%
+---
