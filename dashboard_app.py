@@ -8,7 +8,11 @@ from binance.client import Client
 import datetime
 
 # Binance public API (no key needed for public data)
-client = Client()
+api_key = "R7MltvEb0EdCpPmuSFQasdtCNjyNme67xPCdHNl6wEv2YHnizB9aGJxMvMZrvG4G"
+api_secret = "Y1MFKtjE0gWTHf6Rjh6jrbpUu5P5SSJxGVuBw3UgxD8leINp8o3i5AcIFkPRu3owK"
+
+client = Client(api_key, api_secret)
+client.ping()  # Now should succeed
 
 # Auto-refresh every 30 sec
 st_autorefresh(interval=30000, key="data_refresh")
