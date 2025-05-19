@@ -4471,3 +4471,35 @@ ATR: 0.0046
 🛑 Stop Loss: 0.1482
 Expected Profit: 4.63%
 ---
+[2025-05-19 10:31:41] ⚡ HOT/USDT [1h] ALERT
+Current Price: 0.0011
+ATR: 0.0000
+✅ Buy Price: 0.0011
+🎯 Take Profit: 0.0012
+🛑 Stop Loss: 0.0011
+Expected Profit: 2.94%
+---
+[2025-05-19 10:31:45] ⚡ ZRX/USDT [1h] ALERT
+Current Price: 0.2717
+ATR: 0.0045
+✅ Buy Price: 0.2695
+🎯 Take Profit: 0.2762
+🛑 Stop Loss: 0.2672
+Expected Profit: 2.48%
+---
+[2025-05-19 10:32:00] ⚡ THETA/USDT [1h] ALERT
+Current Price: 0.9040
+ATR: 0.0196
+✅ Buy Price: 0.8942
+🎯 Take Profit: 0.9236
+🛑 Stop Loss: 0.8844
+Expected Profit: 3.28%
+---
+[2025-05-19 10:32:44] ⚡ HBAR/USDT [1h] ALERT
+Current Price: 0.1921
+ATR: 0.0028
+✅ Buy Price: 0.1907
+🎯 Take Profit: 0.1949
+🛑 Stop Loss: 0.1893
+Expected Profit: 2.23%
+---

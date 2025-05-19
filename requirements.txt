@@ -1,6 +1,7 @@
 streamlit
 streamlit-autorefresh
 pandas
-ccxt
-requests
 numpy
+plotly
+requests
+ccxt
