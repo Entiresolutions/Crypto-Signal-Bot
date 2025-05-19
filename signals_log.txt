@@ -4503,3 +4503,19 @@ ATR: 0.0028
 🛑 Stop Loss: 0.1893
 Expected Profit: 2.23%
 ---
+[2025-05-19 10:33:50] ⚡ BNB/USDT [1h] ALERT
+Current Price: 646.3000
+ATR: 4.2326
+✅ Buy Price: 644.1837
+🎯 Take Profit: 650.5326
+🛑 Stop Loss: 642.0674
+Expected Profit: 0.99%
+---
+[2025-05-19 10:34:25] ⚡ LINK/USDT [1h] ALERT
+Current Price: 15.7700
+ATR: 0.2498
+✅ Buy Price: 15.6451
+🎯 Take Profit: 16.0198
+🛑 Stop Loss: 15.5202
+Expected Profit: 2.39%
+---
